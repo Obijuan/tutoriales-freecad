@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="T08-portapendrives-dimensions.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mstart"
+       style="overflow:visible">
+      <path
+         id="path3887"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.4) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path3890"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-0"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3887-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-4"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3890-4"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-04"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3887-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-8"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3890-8"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-9"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3887-93"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-5"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3890-48"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-9-4"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3887-93-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-5-7"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3890-48-8"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="324.52428"
+     inkscape:cy="618.16948"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1855"
+     inkscape:window-height="1176"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       y="207.69197"
+       x="83.827515"
+       id="image3047"
+       xlink:href="data:image/png;base64,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
+6XMqTAZufwAAAABJRU5ErkJggg==
+"
+       height="362"
+       width="594"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portapendrives-dimensions.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="dimensions">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend);marker-start:url(#Arrow1Mstart)"
+       d="m 583.57144,428.07647 -55.71429,65.71429"
+       id="path3051"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portapendrives-dimensions.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:2,2;stroke-dashoffset:0"
+       d="M 197.14286,439.50504 170,472.36219"
+       id="path3051-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portapendrives-dimensions.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0"
+       d="M 512.14286,493.79075 485,526.6479"
+       id="path3051-1-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portapendrives-dimensions.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend);marker-start:url(#Arrow1Mstart)"
+       d="m 185.71429,454.50502 313.57143,52.85714"
+       id="path3875"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portapendrives-dimensions.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="393.14822"
+       y="422.8634"
+       id="text4507"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.98075599,0.19523752,-0.19523752,0.98075599,0,0)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portapendrives-dimensions.png"><tspan
+         sodipodi:role="line"
+         id="tspan4509"
+         x="393.14822"
+         y="422.8634">45mm</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0"
+       d="m 516.17358,492.85695 41.93856,7.58189"
+       id="path3051-1-5-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portapendrives-dimensions.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0"
+       d="m 569.03072,424.99981 41.93856,7.58189"
+       id="path3051-1-5-9-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portapendrives-dimensions.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-25.660681"
+       y="739.32111"
+       id="text4507-6"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.62884028,-0.7775345,0.7775345,0.62884028,0,0)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portapendrives-dimensions.png"><tspan
+         sodipodi:role="line"
+         id="tspan4509-5"
+         x="-25.660681"
+         y="739.32111">21mm</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0"
+       d="m 569.03072,359.28552 41.93856,7.58189"
+       id="path3051-1-5-9-9-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portapendrives-dimensions.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend)"
+       d="m 582.85714,424.50504 0,-60"
+       id="path4973"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portapendrives-dimensions.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-439.05319"
+       y="585.25824"
+       id="text4507-6-9"
+       sodipodi:linespacing="125%"
+       transform="matrix(-0.03425571,-0.9994131,0.9994131,-0.03425571,0,0)"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portapendrives-dimensions.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4509-5-4"
+         x="-439.05319"
+         y="585.25824">10mm</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0"
+       d="M 302.14286,293.79075 275,326.6479"
+       id="path3051-1-5-97"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portapendrives-dimensions.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0"
+       d="M 334.28572,298.79075 307.14286,331.6479"
+       id="path3051-1-5-97-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portapendrives-dimensions.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0"
+       d="m 406.42858,312.36218 -27.14286,32.85715"
+       id="path3051-1-5-97-8-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portapendrives-dimensions.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.99999999, 1.99999999;stroke-dashoffset:0"
+       d="m 218.67357,357.14267 25.15285,5.43903"
+       id="path3051-1-5-9-1-7-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portapendrives-dimensions.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.99999999, 1.99999999;stroke-dashoffset:0"
+       d="m 245.45928,322.14267 26.22428,5.43903"
+       id="path3051-1-5-9-1-7-9-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portapendrives-dimensions.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend)"
+       d="m 266.57855,327.31794 -28.32511,33.88611"
+       id="path3051-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portapendrives-dimensions.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-121.05194"
+       y="408.52933"
+       id="text4507-6-3"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.62884028,-0.7775345,0.7775345,0.62884028,0,0)"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portapendrives-dimensions.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4509-5-0"
+         x="-121.05194"
+         y="408.52933">11</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart);marker-end:none"
+       d="m 225.15411,378.26424 -10.63925,12.99185"
+       id="path3051-8-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portapendrives-dimensions.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-149.82056"
+       y="407.7019"
+       id="text4507-6-3-9"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.62884028,-0.7775345,0.7775345,0.62884028,0,0)"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portapendrives-dimensions.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4509-5-0-2"
+         x="-149.82056"
+         y="407.7019">5</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart-9);marker-mid:none;marker-end:url(#Arrow1Mend-5)"
+       d="m 296.93336,302.74127 28.89232,4.4686"
+       id="path5814"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portapendrives-dimensions.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="347.69739"
+       y="247.22339"
+       id="text4507-6-3-9-8"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.98778477,0.15582441,-0.15582441,0.98778477,0,0)"
+       inkscape:transform-center-x="43.436559"
+       inkscape:transform-center-y="-24.748737"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portapendrives-dimensions.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4509-5-0-2-9"
+         x="347.69739"
+         y="247.22339">4.7</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart-9);marker-mid:none;marker-end:url(#Arrow1Mend-5)"
+       d="m 331.05058,308.78601 64.22934,10.23629"
+       id="path5814-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portapendrives-dimensions.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="409.96158"
+       y="230.51628"
+       id="text4507-64"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.98075599,0.19523752,-0.19523752,0.98075599,0,0)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portapendrives-dimensions.png"><tspan
+         sodipodi:role="line"
+         id="tspan4509-9"
+         x="409.96158"
+         y="230.51628">10</tspan></text>
+  </g>
+</svg>
