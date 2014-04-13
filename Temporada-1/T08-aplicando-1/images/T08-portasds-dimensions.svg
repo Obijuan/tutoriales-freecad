@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="T08-portasds-dimensions.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mstart"
+       style="overflow:visible">
+      <path
+         id="path3889"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.4) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path3892"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-9"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3889-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-9"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3892-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-7"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3889-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-7"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3892-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-8"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3889-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-1"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3892-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="281.55888"
+     inkscape:cy="583.98549"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1855"
+     inkscape:window-height="1176"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       y="208.73006"
+       x="-42.906002"
+       id="image3047"
+       xlink:href="data:image/png;base64,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
+/j+rsandPH4/pQAAAABJRU5ErkJggg==
+"
+       height="467"
+       width="801"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portasds-dimensions.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="dimensions">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:2,2;stroke-dashoffset:0"
+       d="m 443.45697,621.02704 66.67007,12.12183"
+       id="path3051"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portasds-dimensions.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0"
+       d="m 552.01244,499.18181 66.67007,12.12183"
+       id="path3051-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portasds-dimensions.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0"
+       d="m 548.98198,315.33405 66.67007,12.12183"
+       id="path3051-8-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portasds-dimensions.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:2,2;stroke-dashoffset:0"
+       d="m 415,653.07647 27.85714,-30.71429"
+       id="path3857"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portasds-dimensions.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0"
+       d="m 130.71429,601.6479 27.85714,-30.71429"
+       id="path3857-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portasds-dimensions.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend);marker-start:url(#Arrow1Mstart)"
+       d="m 566.42857,500.21932 0,-180.71428"
+       id="path3877"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portasds-dimensions.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend)"
+       d="M 456.95872,621.81425 565.18413,503.62439"
+       id="path3877-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portasds-dimensions.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend)"
+       d="m 152.83147,579.43991 282.19418,47.9874"
+       id="path3877-0-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portasds-dimensions.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="338.21054"
+       y="570.18762"
+       id="text4569"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.98953065,0.14432289,-0.14432289,0.98953065,0,0)"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portasds-dimensions.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4571"
+         x="338.21054"
+         y="570.18762">33 mm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-116.39788"
+       y="771.0556"
+       id="text4569-7"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.64069246,-0.76779761,0.76779761,0.64069246,0,0)"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portasds-dimensions.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4571-6"
+         x="-116.39788"
+         y="771.0556">30 mm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="577.14288"
+       y="416.64792"
+       id="text4690"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portasds-dimensions.png"><tspan
+         sodipodi:role="line"
+         id="tspan4692"
+         x="577.14288"
+         y="416.64792">22 mm</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0"
+       d="m 115.59983,379.59848 36.67007,5.69325"
+       id="path3051-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portasds-dimensions.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0"
+       d="m 124.17126,365.31275 66.67007,12.12183"
+       id="path3051-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portasds-dimensions.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0"
+       d="m 215.8148,268.75303 66.67007,12.12183"
+       id="path3051-2-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portasds-dimensions.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0"
+       d="m 281.42857,278.79076 27.85714,-30.71429"
+       id="path3857-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portasds-dimensions.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0"
+       d="M 302.36413,285.17109 330.22127,254.4568"
+       id="path3857-0-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portasds-dimensions.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0"
+       d="m 348.7927,291.59966 27.85714,-30.71429"
+       id="path3857-0-9-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portasds-dimensions.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend)"
+       d="M 156.37936,367.59135 242.6346,276.32226"
+       id="path3877-0-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portasds-dimensions.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="369.43277"
+       y="141.7997"
+       id="text4690-0"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.95432807,0.29876065,-0.29876065,0.95432807,0,0)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portasds-dimensions.png"><tspan
+         sodipodi:role="line"
+         id="tspan4692-2"
+         x="369.43277"
+         y="141.7997">2.4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-143.74762"
+       y="349.19208"
+       id="text4569-7-3"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.64069246,-0.76779761,0.76779761,0.64069246,0,0)"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portasds-dimensions.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4571-6-6"
+         x="-143.74762"
+         y="349.19208">24 mm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-226.55293"
+       y="341.00729"
+       id="text4569-7-3-2"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.58126857,-0.81371177,0.81371177,0.58126857,0,0)"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portasds-dimensions.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4571-6-6-3"
+         x="-226.55293"
+         y="341.00729">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="402.40955"
+       y="140.02982"
+       id="text4690-0-8"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.95432807,0.29876065,-0.29876065,0.95432807,0,0)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T08-aplicando-1/images/T08-portasds-dimensions.png"><tspan
+         sodipodi:role="line"
+         id="tspan4692-2-1"
+         x="402.40955"
+         y="140.02982">5.6</tspan></text>
+  </g>
+</svg>
