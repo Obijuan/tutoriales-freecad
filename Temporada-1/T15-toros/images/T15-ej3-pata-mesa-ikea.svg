@@ -1,0 +1,941 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="T15-ej3-pata-mesa-ikea.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mstart"
+       style="overflow:visible">
+      <path
+         id="path3909"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.4) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path3912"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-5"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3912-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-0"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3909-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-09"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3909-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-3"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3909-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-1"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3909-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-1"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3912-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-2"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3909-4"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-4"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3912-25"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-5"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3909-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-9"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3912-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-31"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3909-8"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-0"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3912-31"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="256.82854"
+     inkscape:cy="460.9224"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1855"
+     inkscape:window-height="1176"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       y="286.11334"
+       x="-45.182644"
+       id="image3028"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA1IAAAHoCAYAAABD6N49AAAABHNCSVQICAgIfAhkiAAAIABJREFU
+eJzt3XmcbGdZL/pnVVf3nneFEBIgYAgQAiaMYQiTgHpBAS/KeBDEGQ2DJEEROcyBMCgkISGbWZmM
+gPDR6/Fy1eMVEURIIgIJ80wYDARdgQx77+6q88eq1bWqdvWwqmrV+P1+PrWreqpaNeyu99fP+z5v
+ctppv90KAAAAtq026QMAAACYNfUkmfQhAAAAzJZ6hCQFAABQhql9AAAAJQlSAAAAJQlSAAAAJWk2
+AQAAUJKKFAAAQEmCFAAAQEnanwMAAJRkjRQAAEBJpvYBAACUJEgBAACUJEgBAACUJEgBAACUpNkE
+AABASdqfAwAAlGRqHwAAQEmCFAAAQEmCFAAAQEmaTQAAAJSkIgUAAFCSIAUAAFCS9ucAAAAlqUgB
+AACUpNkEAABASSpSAAAAJQlSAAAAJQlSAAAAJQlSAAAAJdUT3SYAAABKUZECAAAoSZACAAAoSZAC
+AAAoSZACAAAoqa7XBAAAQDkqUgAAACXVI5SkAAAAylCRAgAAKEmQAgAAKEmzCQAAgJJUpAAAAEoS
+pAAAAEoSpAAAAErS/hwAAKAkzSYAAABKMrUPAACgJEEKAACgJEEKAACgJGukAAAASlKRAgAAKEn7
+cwAAgJJUpAAAAEoSpAAAAErSbAIAAKAkFSkAAICSBCkAAICSBCkAAICStD8HAAAoSbMJAACAkkzt
+AwAAKEmQAgAAKEmQAgAAKEmQAgAAKEmzCQAAgJK0PwcAACjJ1D4AAICSBCkAAICSBCkAAICSNJsA
+AAAoSUUKAACgJEEKAACgJEEKAACgJPtIAQAAlKTZBAAAQEmm9gEAAJQkSAEAAJQkSAEAAJQkSAEA
+AJSk2QQAAEBJ2p8DAACUZGofAABASYIUAABASYIUAABASZpNAAAAlKQiBQAAUJIgBQAAUJL25wAA
+ACWpSAEAAJSk2QQAlfrEx94Qu/Y2Kr2NE3elsff2v1vpbQBAUX3SBwDA7Lv+K2+Ir1zfPyxVHaIi
+Ir52QyPiM5ds+PXrf5TGfe4naAEwOoIUAKUc+tob4gs/7g1Hm4elM05NqzugiDhwxea3v3tfIz7T
+E7RO2JHG/jsIVwAMJnnoQ89uTfogAJhO//rRN8S+/durKFUdloaxVdCKiLjtrjT2mB4IwDYJUgB0
++8Yb4jPXTrbCNA5bhavkYBqn3lOwAqC/5GEPe7YgBbDglq86EJf/sH+wmIfQtB2bBauT9qSx63Zn
+jPFoAJh2ghTAgtr73QPxr99f7PC0mY2C1W13pbH3JKEKYNEJUgALpPn1A3HFBtP2hKeN9QtV9zkm
+jRtuKVABLCpBCmAB7P7Ogfi3HxwZBoSn8vqFqjvsSWOnqX8AC0WQAphTl37sQOzYM/nwtJ2OecOa
+RCDsd79O2Z/G0m0EKoBFkPzczwlSAPPks5cdiMPLkwlQ4whNgxj3PlZ3PyqN5gkCFcA8E6QA5sQ1
+nzsQP3mziL//dmdQX2WA2G5oevit09i3ElGvRSRJRFL42ju/WC54/ead0mhFxKG1zungWsQHv7X9
+6xnnY3KXRhqJChXAXEp+7ud+X5ACmGHf+NTFcdotIv7xu9UGqO0Ep5+5Rdp1HJP0mBPTWG1mYeuD
+V218TON4rE7Zn0b9xKeN/HYAmBxBCmCG3eQ/L44Pfa970D7KYLBZePrZW6axYynib0tUg3q94N5p
+JElELTrVquJ5qxXRis75i/5t8Nt64u3TuGE14q++Pr5QVXz8fvoWaVz2nYgT7yZQAcyD5Od/XpAC
+mDU7rro4Pv6D8Qaohx6fxs56xP/zjc3DzHPukcZSLZvKt5T0D0jbOY/ohKji5c0+l583WxEv/vjm
+x/noE9O47lDE3327+nbwxcfzPjdN4+CthSmAWSdIAcyQqz59cdz95hH/8J3RT+PrF57uf2waR+3Y
+vOr07LunWWiqRdSTLEDVkuzj2jZC07M+tL0q00UPSbsCU8SRISryjyNirRmx1uqcv2SLYLWRKh7f
+n7tVGp/7fsRN7iRQAcwqQQpgRqx86+K41f6ID3wtG5CPYoA/SJe9M++WrgemvPK0Hp4KAWopiTjz
+n8e7Xurin+6ErWKIWmtmVari5875xMbH9qgT0vjrb1RT8VOdApgPghTADLjp1RfHP464CtUbok4/
+Ju27aW9ExNl3K0zXa1eelmqd4LSUZOHp7A+XD07bvS+DhL7X/3S6PtVvq2DVbEW84rLu23jMiWm8
+/2ujD1TF+/Kzt0zjs9+POPYUgQpglghSANPs6xfHbY7qbpAw7EC+OIi/SyONo3ZGfPg/u8PC75yS
+rYdarkUsL3WqTsXg9JyPbB1spm3z34sekkazT7BqFi4fXos4d8yB6jEnpvHNNOLwTwhTALMiefjD
+/0CQAphCu7/9+rjl3oj3fXU0U/l6Q8YDj0vjX3oC1FN/Mo1dy1l4WmmHqOWlrAJVazeO+IN/GW8r
+8WFsFaxe9+C0Mw2wHaYON7Mwdbh5ZIWqn1E9L4+9bRrfujbi0K2fPtT1ATAeghTAFNr/3dfHcXsi
+3vuVakJUr9+6UxagVpY6IapeOPWrPk1baNqOjR6HC9uVqlYrYrUQpg61z191ebWBqnhc97tZGjfc
+SpgCmHaCFMCUOfp7r4+b7Yn4iy8PH6K2ClC/fscsQO3MA9RS9/S95/3rfASojfQ+Phc+JI1ms1Oh
+Koapw2tZyHrtf1RTkcuP5XG3TeN7P4748fHCFMA0E6QApsixV7++a1+jQQfmmwWox942jd3LEbvq
+0alCFdZAvbDPprfzFJ766X28Lnhwur5uqtnKKlSH1jpT/g43I87fIFCNqnr4oOPS+KevR5x2P4EK
+YBoJUgBT4F/++fXxhFMijtoZ8e4vDVeJ2ihE/dJt0tizHLGzHaLyZhJ5J76lJOL5H6tuk99Z0O+x
+e81PdULVarO7QnW4GXHBp0YfqPLjeMjN0/jM1RG3vqswBTBtkkc8QpACmKSPfvj18eg7RnzwqtFN
+5TtpTxpfui67/KgT0tizkgWnXe1TfSm69oJ6wceGr4LNk95Add5PpevT/ZrtdVR5hergWsSNq/1D
+2LBhOJ/m9y9XN+Ie93jyQNcFQDVqkz4AgEX3qJMjbrJr+OspDuTzEPWYE9No7IzYuxKxbyVi93LE
+Sj2bzrfSbmsuRB3pjFPT9VNExFkfbnRtPrxcy4Lp+hTJev/HbpC9r/Lbj8g6Nh67J+K+x6Txzx96
+/eB3CICRSx7xiOeoSAFMyNHfuyiO2T18Y4l+A/bH3jaNve2pfHkzibwjnypUOcXH9zU/VWiZ3p7u
+l1elbliNuPgzo69MPfrErDX6pdc04h73+JXB7gQAI6UiBTAhe799Udxk5+hD1P91fBqPu20a+1ai
+qyNfvh4qSYSosoqP0bM/nD12690Na1l1b2c9Ync94hl3TuM379T9mA5bmfrA1xpxi70Rd254rgCm
+hYoUwASsfPOiOH5fxPu/NtoQ9bBbpdHYkU3l21nvbKqbd+R72aUC1LDyx/yPH5hVplrRaY2+2oy4
+cS3iYLs69ZbPjqZ5R36bD791Gl/+YcTek58x1H0AYHjJIx8pSAGMU+urF8Wt90f89TdGG6J+/lZp
+7G+HqB317rbmSZJNQciDlBA1nPyxf/UD0mhF90a+eSOKG1ez05tHEKby23vC7dK4+rqIz18Tccu7
+CFMAk2RqH8AYXX75O+O4PVnYGUZviHr4rbOmEvt2tCtR7RC1VItIIuLcSxvxsksbXQ0UGFz+GD7n
+I434w49kz0Wt0AUxb0axqx7x1FPS+JU7dB7zQab55bf3nq804ia7Im69P3stATA5ghTAmFx++Tvj
+gcdlVaNh9ooqDsRPPyaNhx2fXee+lYgdS4UQ1a5CnXuZKlQViqH0uR9tZFW/pNNWvl7LKoM7l7Lu
+fqMKUx/4WiOO3pW1uBemACanPukDAFgUd2mkccyurKoQMXyIuu8xaezbEbF/R8Se5e6W5kvtQb0Q
+NT7NVlb9q7WbUOTz5lv1iEiyLn+j0tgRcct9Ed/9kecVYFJUpADG4PLL3xnH7xt+Sl/RvnaA2r2c
+VaCWl7IBfC3J1kRZADseeUj9n//aiNVmrFemlvLKVJI9PytLEU85eXRT/I7aEXHSTU3xA5iUepIk
+kz4GgLl22WXviAccm61heucXR1ONesjN09jV3hA23x+qFoUQ1Yp45eWqUeNyxqlpHLiiES/8t0a8
++D7peqBtRRammq2sg+LKUsT/uH263vL+wBWNgZ+f3csRx+yKuO2NaXgvBxg/FSmAMbjprmz90iic
+fkya7Q9V7+wPlQeoJISoSckf6xd/PKtMtaLzvCzVImq1bL3UylK2we6wt3PJlxuxezniJjuzsA7A
+eAlSABW67LJ3xAOPTWNHPeLtXxi+GnXXRrbRbh6iVtohqtYOUc1WxKuEqInJH/OX5GGq1Xl+lpJ2
+mKp3h+pBN+uNyDZcbuyMuMVyKkwBjJkgBVCx/TuyKsSormvXcqc7Xz6FLCKiGRF//O9C1LRYa0as
+theqJdFeM9VeN7WzHvGYEwdfL5U/v3/x5Ubsqkccs3tURw3AdglSABW57LJ3xL1umsbu5eGCVD7I
+Pu3oNPastNubL2WD8rzakW8Ky+TlIefcyxpZmGo3oMin+NWT7PnbWY/4hZ8YPvDuXo44akfE/paq
+FMA41a1PBajO0Tuz4PO2zw1fKdq/o1OJyjd+rRV+hzcFqamz1oxo1bqn+C0vZZWqnfWIQ2vD38aO
+etYN8vj9Edf+KAtsAFRPRQqgApde+o44ZX9WQVoeQTXq9GOyLn076llziXqfBhMXfMq0vmmRPwev
+/vdGNJvZHlLNVuf5Wm4H4V3Lw9/Gu77YiB31iP0jbK0PwNbq2a90AEbt2N1ZM4j6CH7N7u6z4e56
+iArVqGl2uJmF6bVWp0V9LcleG2u1iCfePo1LvtwYqhV6vZaF7JvX07j00nfEve71q6O9EwAcQUUK
+oCI76lnV4S0DTusrVqNWCm3O+4WoCz+tGjWtVpsRh9ciopWFqci7+NU6GykPq17Lpn3uUZUCGBtB
+CmDELr307RHRqR4Na1dhOl8xROVT+lSjplMeai/8dNYK/XAz+3yz1ZmWWa+N5o14ub3Z754hpgoC
+UI5mEwAVOO3odL09+bDq7UFyPiUs14wsSK02h78NqnV4rRN+a0n23OUvjWHeh884NY0DVzTinV9s
+xKNOSGNnPfv8pZe+Pe59b9P7AKqkIgVQgT3L7YYCI/hjVd6dL990Nx94N9vVKEFq+h1cy56n1Wb2
+nLUiItpt62tJxONvl1Wvhtmcd3mpe6NfAKolSAFUYPdyNrCtjSJItaeB9Xbpi1bWXvutI2itTrUO
+rUUcKnTva7U6+371VhoHlUT2mrvNTq8DgHEQpABG6BOf6KyPyqdyDWup1qlE5deXN5mwPmo2rLVD
+bytvOBHZ5by6OJIglXTCFADV0/4coAK1QgVpWPm6mjxMtRu/RbN9YvodXmu3O29FJIUAnAeoUUwB
+Tdr/dEKZ93eAKmk2AVCB4lqmYRVDWT6tL0l07Jslq80s9K41s9DULDyHSTKailREO3Tnl72/A1TK
+1D6ACqxXkAb8+bzpwM/fKl0PUbUoVKPaDQvWlKRmwlorotleI7W+gXJ7ndTIQlQyuvVWAGxNkAKo
+wHoFacBBbd444oNXNTr7RuXX1Z7epyI1O9ba+0g1i80m2l+rJRFv/8LwDUPyKaCCFMB4CFIAFcgr
+UqPQ93pahTbaTL3VvBqVN52ITnWqNcSTmFcuf/NOaVcwA6B6ghTArCkEqCQiHnXC8HsQUa28GrXW
+KjQIGXEKbgnXAGOl2QTAiJ12dLre6npU8m59Ee11Uknn8yoQ0ykPtnc7Kgu6a4WqVLOwNmoUL5NW
+dKpbeXt17+8A1ap1lkM7OTk5OQ1/irj8h41YLVQGnnmXwSpG+XqZ93210b7mjiRipHsQUZ3lWkS9
+lu0H1u+5GkXgzsPZWivi4Gr+2Un/X3BycnKa75OpfQAVyNfBRMRIKwNJ+/ryLn55c4GHHW9637Sq
+50EqyU7F/cVG1TAk7wS41oy4cXXLbwdgBAQpgArkU7hGlaFaPZ3e1gNV+3zJb/OpkgfaO+1Lo77U
+HaDWp2VG9py++bODdezLb+N3TknXXx9rrYirDgnTAOPgrRdghE4//dcjIuLwWmfdyjBhKh9cv+OL
+2eC4d2JBXpEyvW86Ldci6u2gu1RrVxGj85oY1fqovK26fcUAxkezCYAKHG5mLa/zaVtn3jWN8z/V
+iANXNAbeK6hrLU2hulFLsgH7Q49P4++/PdxtMLy8UnSrlfSIaX3FilQrIt545fD7RzVb2WvtcDNi
+tfAa8f4OUC0VKYAKfOh7jTi01glSI18n1b7OpXaIWlmK2LEUcf9jrZWaFruWO+uj+lUOh6lG5c/v
+Gaem0WyH9kNrET8+lH19x6ogDVA1QQqgIgdXO2ulhpFXK972+UY2+G6vjVpqTxmr1yKWl7Iwtas+
+7FEzjDzg3H53GnuWs+ckn9ZXrEZFRLzhitFUo9ZanSD1uR8J0ADjov25k5OT08hPmRtXY70qlUTE
+2XcbvFqUD7bfeGW7FXqSVTeWkixIrbSrUruXIx50nKrUJBQf7z3L2Wn3cmdqX742KtnwGsrdztPu
+nDWZyKf13XBEt75J/z9wcnJymu+TihTAiO1rZUHm775dzfS+PJgl0Q5T7apUXpHasxJx75sKU+NU
+fJzvtC+N3SvZ1L5d9c4+UsW25wdGUI1qtSKakTWYKE7ru/7HpvUBjINmEwAVOrjaaTqxlEQ8++5p
+vOaTgzWEOOPUNA5ckf3sM+6Srq+3qUdELHW6BK42Ixo7Ik67SRqX/5fmE1UrhqgTdqSxux6xu56F
+qJWl7ul9ERFvuHLwcJvf1tPvnMbhZtYdMj/vndbn/R2gWipSABW4eT0LLvn0vrVWp4I0jDwQXfTp
+bNCcb8rbtU5qOWLvSkRj53C3xdZ6K377dmSP/8pSxI5CkKon7a59I7rdvNX5wbXsNfbjwyO6YgC2
+TZACqNAHr2rEje2qQT4l7w/uMZppd61WrLc/z9dKLdey7n27lyP278jWS91hT6eSxejkj+dx9U61
+L5/Ot6Mwpa9eaDZRbHc+6Aa8T79zuj6d7+Bqtjbq2huz71m7QeURYFwEKYCKXXcoqxqstbKpd7Uk
+4veHCFP5APx17apU3gZ9Kem0Qd/VbnTQ2Blxi32dnxWmRiN/HG9eT+PYPZ2285de0+hUoXpanw+z
+Lir/2WfcOe3q0nfDasS1ByO+cF3383r1dcPcOwC2wxopgIr8xI40vnmwEX/zzUY84XZp7KoXOriN
+YIrfgSsacd5/NOLZd08jkmz62HojiiTWF00lEfHTt0jj+9dFfOZaa6aGVQxRN9+bVf72rHS+vqMe
+XRvxDhuiii76THY9Tz4pjRvb1ajLfph9rn4ojbXC93p/B6iW9udOTk5OIz913H53NnC+/nC7KtXM
+Oq3Vkog/PG24KX75oPw1n8xaoueVqfUpfvWI3SvZQP+onRHH7Y24+0108xtU7/TIW+7LHtf9OyL2
+Lkc8+Q7ZY/uBrzW6qlHDhqj858+8a+fn87VRPzq42U9O+v+Bk5OT03yfksc+9vlDbhUJQNGnP/La
+9c1YV5Yivnx9NhB+wu3SOHpX1gii3p5YvdaKePXloxlo/+FpaSSRFaKa7elf+RSwg2vZFMPrDkf8
+4PqIT1zTCQSqU1srBqhbrWSVqMaO7LncWc+mU+bNPpaSTuUoN4oQlT+vN6xGvOWzjXjAsWl85Ors
+67vW0jjcfp4PrmVd/B7+8LMHu7MAbIs1UgAj1vvXqZP3ZoPo93yl0bVJby3JpuM9Z0SVqVdd3ohI
+Os0n8vVSu5c7zSeO2hlxi70RDzi2M7BXndpYsQp1dC2N2+5K4/h9EUfvytaf7S40l9iZN5hY6r6O
+oUPU3To/f6hdiYqI9RC1e00QBpgEQQpgjK47nFUU8i5+tdpow9QrL2vEKy5rdG3Su7KU7Wu0ezli
+X7st+nF7snVT9zy6c7sCVbfi43HirjRuvT8LoTfZlVWjdtU7Iap3XVTEYJ35em97PUQl2WvmxtXs
+9OCbC08Ak6bZBMCo9Zkwfcq+NK78USPe+5VGPOmkNBt059WjWvYzzzktjVdfPngziLwBRUTEyy9t
+xAvunWbt0aNzO/lgf7m979S+lYjGjjT+8bvZzxXDw6JO+esNUPt3ZI/TrnqnvXle7Vteyh7LpfZ6
+qNd8cvgwWrz9fCb+4WbW6vzG1Yj0xogPfS/7nr3NNJobXI/3d4Bq1Sd9AACL4i6NND6dNuLdX2rE
+r52cru8vlE/xG8UcgTz8HLiiEed8ohEvuk8a9YhYWsoaXfQGql31bJ3PL90mjR8divjf3+kM4kfV
+aW4W9KvG3fWoNPatdKbv7VruNPPYsZRN4ctD1Gs/Odo1UWfdLVvvFklnndv1h7NW5//wHZVDgGmQ
+PO5xmk0AjNJ/fPi1sXelM61uqdYZgC8lEZ/872wg/Fs/mcb+9kC9ljefaGbVh2EbUER0BuUvOb1z
+Hc1WdhurzYhDzc7tHW6vvbn2YHb6/vURV1w7mnAwzfoGqEYae9ud+PIKVB5680pivV3RW0oi/uST
+o6ni5cdy9t3S9WpS/vxcezDiv2+M+Jtvdh/v3mYazfb+ZL3NJh7xCM0mAKpUzyYNADBu1x3qVDR2
+tqf51Wvdv5WH2fMpn+r3on/LBt/n3Ddd3xy2Vouot0PVWjNitT1VbWe7QrV3JeLoXWlcc0PEldfO
+17S/fuHp9rvT2LuS7QeVT+Pb2T4lSSdA1dphuLcKNezjkR/Ts+9eqEStZSHqukMRPz7UCVH5/mSb
+SQr/AlANU/sAxuy0o9O4/IeNuOTLjXjKyWksJdmQd2e9HXBqEc+/VxqHm1knvlGEqYiIF3ysvX7q
+fmnU2nMRWrV2q/RWxEozYsdapwPdnnagutnubPPXf/vBkdP+irczzTZqpHHaTdL1ZhE7l7IK1M52
+E4l8M928EpV3Q6wlEa/+99GHqN+/R7oefQ63K1HXHY740aGIdNP9ogCYhOTxj3+BqX0AI/TJf37N
+plP71qsaScTHftCIXz25vRanXQmptUfTq+0pd68cwTS/iCPDxCvu37m+VisbuBf3nrpxNVuXc3At
++zifOnbd4Yh/+c+NKyKTDlVbdR+859FpV8vyHUudqXo72w0kaoUK4XqAqmVdEXOjfD6ec4/OdeWP
+fx6i/uuGWG8Gcpud2VS+vCK10dS+1bWIRzzy2UMdHwCbE6QARqxskIqI+LWTs3U5e9oVkbyF9uH2
+1LtzKxrA5179gGzD17VWNgjPA1UeoooBK9/g92A7aP34cMSl12weXkZ17Nu5L/3c6+g09qxkoam4
+51PedS+fYpl3Ocyfs1rSCbKjvB/F4/7Dduv7Vit7/A+uZi3yrz0Y8V83Zg1Abre7HZhasWWQykOv
+IAVQLUEKYMTKBKlaLeKjV3fC1L5CmMqrImvttUwv/cRo1yj1CyF//MB0fUCfh6e1VkSzUK0qhqyD
+7cpV3pr7htXORrGTsj5dr/3YrxTWf60Hp/Z5viYtSTrneYAqhtfcKB/359wjXW8y0mo/xwfXCiHq
+hk6HPkEKYPpYIwVQgTJ/ofqp49L48H824s++kLVFj4iIJJtmtlSLWG6HsBffJ1s39fJLGyNpTV78
+2fz6/uBfsvM/eWDWnn2tGdGMzgC+2PVvtZmtrcqnIN7Y3mj4VvvT7u9pdqYN5vsfjcoDj02P2Aw3
+77CXX16udVqV5yGqNzzl5y+/tJrwFNEdXJ97Wro+hTMPynml79qDEe/9Sud7T9qThSUApouKFMCI
+/XuhIrVjGxWpvAJSDBnPvEu2bmpHe/PX3OF2J7dzRlydyvWrUr32p7Lrb7a6T604MlTlH+dtu5ut
+TlDILzcLH6/mu8kmnR5zrZ53pd43qXzNUrElef7xelfCpHud03L7a/3CUxIRL/74eAJURMQf3TML
+UcXKXz5V8tqDEe8phKg77k3XHzMVKYDpUk9sfQ5QmTJ/qfrpW6Tx/7ebClz46UY88y7p+kA/Dwkr
+S9VUp3LFDX1zZ3+4Owhc8OD0iIF9MTAVz1vtQX4+2G+1OgGiGMgiIqLV/Xht9Pli97zaBuGplnT2
+N94oPD3/Y9WFp1zxccwDVJJkUyWb7QYfh1bbjSUORvzl17LvP3V/5zEelPd3gGqZ2gcwJtsZE//s
+LbPB9t9/uxEXfroRTzs1a0Kxu72+J6++7KpFLDezzXbzfaKqCFTF680960Odjy96SNq3UtUshKji
+eTFQ5VMG+8k/3+rzcVIIS0uFKlNE985JeY5IIuJ5/7r5lMJxBKh8Kl/+OOVT+X50KKtE/dXXs5+5
+ayOrQgEw3QQpgCn0sFul8XdXNeLi9oD8rLul69MF82lqebOEl98vjdVmVBKo+l1PMSQ845/6B5TX
+PThdD0wRsenliCMDVW+O6Be4ikGp+Ll8nddWqmjT3hs6n3+vQhWqHS7z7ofXt9ub//mXOj9z96MG
+WA+VRDth9nwOgEolT3jCC/3dC2CELv/Qn3R17curSEu1iPoma6SKp7wN9wev6gyyn3XXdL2jX951
+LrfWytbFrDaPXO9T5b5O220/3uuih2RBq3faXvtT6xeKXzvznwdvVFH13lZHBKh7p+vPax6g8ufo
+cDMLUD/qWQ912k3SrmmS/S4Xq3rfaq+T2t1M1/cBO7jaXiPVjHjkI3+/0vsMsOhUpACm2MNvnVU0
+/tc3G3HBp7J1U2utiN3tr9cLQWy5lgWpl98vjcNrnUA16gpV0UbXuVXA2qiSNQrj2hC43318QSFA
+FaczHm5m+3Pd0F4P9Wef7/zsvW/aaW0OwOyoW4sKMP1+4YQ0/uYb2bqpiGyq3+7liN3LhYpX0mnv
+vbq08ZS/iOrDxlbXP0gla1wBaSv9jv1F9+leB5U31cjbvt/YDlBv+WwJcvBZAAAgAElEQVT3z55+
+THWtzb2/A1RLRQpgRjzqhDT++hvZQPy8/8jOn333NHYtZ80o1luBR8RK+/JqM+IV988C1QsKXeqq
+rFJtx7SEou3qF55eeO80lgpdA4vrvlZbWQXqYHst1HWHI97xhc51PODY4bvyATBZdStSASan7G/g
+X7pN1hL9A+022a/5ZHb+3NOyjWl39mxOW2uvpWq1Il71gPSIdVTjrFLNmo2qZi++T7q+N1guz0P5
+flqH1iJuOJyFqLd+rnM9Dzou3bRb4Wh5fweokooUwAx6zInZVLL3fTUbpL/y8uz8+ffKAtWOpYhW
+e8PapXZTiqVaFrTWmhGvfkBWpSq2Be8NDosYrLYKT3nL9YhOeMr3zMq78d24mp3eeGX3dT345ql1
+UABzRJACGLEqxsob1RYef7s0kuh0f3vZpdn58+6Vxs6lToUq7xBYi0KVKiLOe1AWqA43I5730e6B
+/yJUqzZbq/WS09P1jZBrhb2qugJUuwJ1cHXjAPUzt0zXm05sJO9gDsDs0GwCYA488fbZlL98T6Jz
+24Hqj+6Zxo6lWK9S1dpt2Gt5laqVhaqdUQhVa1mFpd+aql6zFLC20+DinPum663qa33eH5utTgXq
+8FrEjWtZiLrgU0de98OOb6+DGsXBD8D7O0C1VKQA5siTTsoC1bu+mA3sX3FZZ4D/ktPT9Q1980rL
+Urs5RbSnrK0sRbTq2Rqe8x6UroeGtZ5pgLlpC1hlugG+9PS0EywLe3j1ajY7ezmttdc/HVzNQtTr
++gSon79V92bEAMwnQQpg1KZgAP0rd8iCzDu/2Bno523QX3jvNJbbmwUXQ1VS2Ay4FRH1VkRrKbvc
+LASr1UKwKFatigbdqDeiO4QNcz29Xnbf7nVO+X0tyqfYrTU7wWmtPfXx0Fp2yht8FP3fJ6RdG+b2
+u86qKUABjJcgBTDHnnJytoYqSTqbwL70E50g8IJ7p7Fcy0JVHqyKgWq9sUKrs66q1eqcv+7B6Xrg
+yKe9NVv9q1fbNUx4Oue+6XpQWr8f0bPOqZA48pCTh6D8fqw2Iw61pzkeWsvOz+9TffrF26Trj8co
+JRtcBmB6CFIAC+LX75hVev70851AcE4hVL309KxSlTen6Gq00BNI8uBQnMJWDFkXPiSrXvV+Pj8v
+hq6IzvUXL6/fRuF7ImI9GOaXi9PyilPzkp7AlGu11y0VK0h5eFotVJ9edXn/QPfYE9tT98I+UACL
+rJ5YjQpQrVZMVVnhN+6YRrTDSnGPoxf+W3dweOnp6fomv8VTHmTy82LQakX2TyuyaYFR+Dg6H3Z9
+btCHpzfD9F5Hb3ArVp5WCy3Li6eNwtPjb1eoPM1IePL+DlAtFSmAKg0ZoqoeCv/mndL16W5v+Wx3
+iCgGq+ffO+v+V69lU/zW1xnVOlPm1sNV+/rWK0y1/vfliDzS2uDzfX6mWAVbD27Rv/JVrDit9QSn
+V24QnCIi/sft067rHta210rphQ4wEwQpgDk0SH777Z/Mpv7lQehNhf2QXvaJ/oHjpfdNs72pkkIX
+wMJ5b7jKbefYukJSn3VI+cfFsJRPFyyu22q2Il7y8a3XXT3ppHT9eqtY97QRuQlgNglSABXYrPX1
+rEy4+p1TOt3zkoh4w5VHhpEXbtC1LyLi3PunnapU4fPF9VZLtSN/Ll+3VFx/lSRHVpv6VZ22E5hy
+Tzk5Xb+94m0BwHYIUgBsy++emh4RApOIuHiDLnvP++joWpcP6zfulPZtigEAg6pbiwowWos2QH/a
+qemG0/Ze/5nxhKnfOSU9solFT0OLXpOaUje2faW8vwNUSkUKoCITmyrWb4HUhDoHPv3O6dbfVNDa
+4IMjuv61LyxaaN1Kv6mUAFSj7tctQHUM9Jkc7+8AVeqzzBeASTMEnmKeHABCkAKAoY2s8iikAcwM
+zSYAYI6sr5Py/g5QKRUpAJhh8hLAZAhSALARKQWADQhSABXou2ZGCz8AmBv1xCRqgErJT+PnMY/w
+/g5QLRUpgBG7/8OeO+lDYEaIOgCzS5ACAAAoSZACgBiyOmQuIcDCEaQAYAolG1wGYDrYkBcApk0S
+Q1e5vL8DVEtFCmAMzPxiS6MKPgIUwFjU/cYFgHnk/R2gSipSADBDxCOA6SBIAcAElA1EAhTAdNFs
+AqAC1kRNmQV8Qry/A1RLRQqgCgs4cAeARSJIATB7ZjWoqhIBzA1BCmDOzGrGGMYi3mcAJkv7cwCo
+ygg21h3uxgGoimYTABVRJZkOC/U8FN7Tvb8DVMvUPoAKLdQgHgAWiCAFANu0VZFn4OCsegQwcwQp
+AACAkgQpALqpjkTEbD8Ms3zsALNCswmAGeRXN1vx/g5QLe3PASowjU0mWjGbv/Gn8bGcRkc+t7P4
+bAPMDlP7AAAAShKkANiUusZs8XwBjIcgBQDTSCICmGqaTQDAILaxeCvZ3rdt+vODXqn3d4BqqUgB
+sG7DsbdB+dh4qAFmgyAFABGlE4xuggCLTftzgFmU9L3ILBp2/t+mVwxAVVSkAKBiIg3A/NFsAmBM
+TAWjaknhgvd3gGqpSAFUYFFDk7E7AItCkAKowqImqRkh8AEwLEEKoEpzHKiEEQAWmSAFAGMifALM
+j3piNSpA9VphFD1i81jsG2UndO/vANVSkQIAAChJkAKoSGtcJZO88DCPJRoAmFKCFECFZBv6MekO
+YPYJUgDTaoDRtuA2YyQqgJlVtxYVAOaP93eAaqlIAcCUkYEApl/dr2uA0WttcBlKSSKSgV9A3t8B
+qqQiBQBTQOwBmC2CFAALT4gBoCzNJgBgDnl/B6iWihTAArBOCwBGS5ACmHIKC9Nn2oOp1wxA9QQp
+gDEYycB7WkfH03pcAFAh7c8BYBuSmP5KVETxXd37O0CVNJsAmBF+Xc+ZipOZ93eAapnaBwATJvMA
+zB5BCqACk5gCNgvTzgBgXghSADBjVLAAJs8aKYAqjKA85Nczvcosq/L+DlAtFSkAAICStD8HgLnk
+/R2gSipSAMyMcTXUEEEA2IogBQDjIJ0BzBXNJgCYD/q/d/H+DlAtFSmAirRii7G9gS7bUfZ14nUF
+MBaCFACU0dr0QwAWhCAFMOtaBvPzKNngMgDTQftzgAoINkye93eAKmk2AQDbkUQlCbmiq9VsAqBi
+pvYBcIRZHYOrBAIwLoIUAABASYIUAMyJWa0kAswiQQoASjB9EIAIzSYAZppf4WzE+ztAtVSkAGZM
+qfGx8gkAVMI+UgAzrhV+k3OkD3zgteuXH/3oZ0/wSADmU33SBwAw9yacdAStyapqn6gyPvCB13R9
+LFgBDE+QAhijSQ+omS5VhqwzTk3XLx+4otH1tWKwEqoABqPZBMCIvf/9r4n9kz4I5tOAyasYqiK6
+g1VvteoxjxGsALZDRQqgCkpPs20a5uMNYau/kW5WrXr/+wUrgO0QpABGqHcQyvbNcG7ZliqzWfF6
+y0402axaFdH9mhaqADoEKYARyQecZ5yaxrs/M+GDgQFtFqxUqwA6tD8HGIH3v/9PIuLIQSjMuu1O
+A3zMY35/bMcEMA00mwCo0rzPV2M8pmTN1ubVqj/p+tpjHytYAfPN1D6AIf3lX85WNcq+UpM1JZlo
+JDarVuX/LyKEKmA+CVIAQ5i1EMVg5in8VGWzalUxVEUIVsB8EKQAKrLZwFtFaP5UEbSSnsuzFOa2
+W62KEKyA2SRIAQxoy2pUa7oHvqb4zbe3fyriV+866aPIbNVi3TRAYBZpNgEwgPe9b/MQ1drgMuRm
+rcI0StudBvi4xwlVwPTS/hygpPe9748jwrqoeTG3gWaG3t43mgaY/8EiIuJxj/uDsR4TwFZM7QNg
+as1lwBmHZKZyVJeNQ1X2BwyBCpgWghRACapRMD6bNawAmLTapA8AYFYIUaiQTU7+/y7/fwgwaZpN
+ADB9JJbBjPA9fTsVoHH/UeGMU9M4cEUj3ve+P47HP94UP2CyTO0D2Ib3vnc6q1FamLOR7/xosJ8r
+M4Wu+L3T9n8DoGqCFMAWpjVEMYRJt+qb9O330RugnnRSGjuWIpZqEUtJRK24GKAVsdaKeOOVja6f
+938EWCTanwNs4r3vfXVECFGUMIUhaSvFEPULP5HGzvafWbe6G7/1k2msrkUcXIu45MuNMYcp4xdg
+sqyRAoAFloeo+94sjd3L2ed6A1T+8XpGTHo+GRGPPjGND3ytsX59VQSqYuAzfgEmTdc+gA285z2q
+Ucy3PJjcudF+jRcS1BHVqJ5PJNGpCSXtfasedrz/K8DiEKQA+hg2RM3YzC7oazuv42JhKEki7nez
+7P/MqPd9so8UMG0EKYAxEKyYNnkwOa5+ZDWqqNVzeT04FRJUEtVOtcuP9ZiaihcwPQQpgB4jmdI3
+58lpmpanbPRQT/wpGPWDVNGD3mpF3yl9G31+M1UHKoBpIkgBFMzbuqhRholFGR9veD+3eDBH9fiM
+63HOX+NXrzU2D6Ob3O+kcJ60L4z6+FWjgGlVT/zpCCAiIv7iL14VEfMTophdm70zb9ZdPdng8lY2
+y4hbhfFk/Z/s7CNXj65r32YhyvgFmDQVKQBYUHnYufLazRs59IaprnVSeYgacTVKJQqYdoIUQKhG
+sbjy1/zHfrCNrniFRNVb/XrvVxrxt9+qbg8pgGlTn/QBAEyaEMU8GaQqdMapaRy4ohH/+N1OmHri
+7dNY7zfR1a6v29s+1/mZUf0fUo0CZoEgBQAjsuH6pc0WNm3jOsfxM3mYyl3y5XL7NglRwKKpW6sJ
+LLJLLqmuGjWSjnl+RzNGxf8H290Ad1KVXOMXYNJUpICFNY4QNfG9jIZkrLq4JhGQylSjLrnkVfHE
+J/5h1YcEsKG6t0lgEV1yySsjYjyDxVkPUzAOZaf0PfGJz63ycAC2pGsfAEyJRf3TpnVRwCyyRgpY
+OH/+5+OrRrF4hugrwRZ+0Oys2zJ+ASZNRQpYKEIUg5q2cHTrHdlr+LraBk0hZiRoDFKN+uVfNq0P
+mDxBCgCYiDIhKq9GCVHAtBCkgIWhGrXAZqQ6Q39CFDCNBClgIQhRFRFQGJAGE8CsqydWawJz7t3v
+fkVECFGMj4YTmxtkSt+TnvRHlR4TQFkqUgBQkYn8qXLK/z4qRAHzQpAC5tqsV6OmfEw8H6bkQZ6S
+w5gaQhQw7QQpYG5NMkRN/bSuqT9A5pF1UcA8EaQAYE7lwWUamNIHzJu6XhPAPHrXuyZXjTpwRSN2
+t8rdrl/F86fYcGIczSfmpciYh6gnP1mIAqabihQwdyYZomBUSoXrKU9RpvQB86ju76DAPHnXu86N
+iMmHqOuXGrEvDBoZjUHeqffvn45pfYNM6Xvyk59X6TEBjIKKFABQCSEKmGeCFDA3pqUaBUNbsMki
+QhQwizSbAObCO985xSFqQutXWrFw4/FKjLJRxEbXNY5mFOM2yLooYxJglqhIAVRk3gbGsF2DTOn7
+lV9RjQJmiyAFzLxpq0blx3H16nQs9qc60xaWZ62gI0QBs0yQAmbatIUoZsusBY+yJrWPWoRW58D8
+E6SAmTUTIWpSJYtpK5XMqwEf53kNcKb0AYuknljZCVCZqcozuk8sjF17xz+tdJAQ9ZSn/M9Kjwmg
+SipSwEx6xzteHhFTXo1qG0WYkn8ma6oC8Ram/bUiRAHzQpACZs4shagypn0AzJjM4AvBuihgEQlS
+wEyZlRCVH99Vh3TuY7yWdmWvuXH9HzGlD1hUghQAUDkhCpg3db0mgFnx9rfPRjUqd8apaRy4ohFf
+vaERJ++djWNmtjV3TG81KmfcAcwLFSlgJsxaiIJ5N8iUvl/9VdUoYH7UZ3JVKwAwMYOFqOdXekwA
+46YiBUy9t7/9ZRExm9Wo/Ji/8GNNJypVoj/5tP35cFTHc3h5vNP6tkOIAuaZIAVMtVkOUTAuN9bH
+F6K0OgfIaDYBTK0/+7NqQlQ+ENyOUdx23nTiimsbcbejDD6ZXYNM6fu1X1ONAuZTfdIHADAuZQJU
+78+oiC2GJErNEpwq0/QaFaKARSBIAVNplNWo3gD1+NulsWMpYmUpYimJqNUiaoXqfKsVsdaKWGtG
+vPVzja7rGPR48qrUf/x3I+559PQMeLfFzIWJSTa4PAmm9AF0s0YKmDpVTel76PFpPOqEctf5lJPT
+eMLtRnMc01QxmGmzWjLajgGTU9WvLVP6AI6k/Tkwt/LB392OSmPvSvfX+o3Fi9O6kuj8dkySiEed
+kMZ1h0cz1e+yHzbiPjft//Pj/I08TdWOsvo9f1Xlq2nNbd86OJ5OkIOFqBdUekwA00CzCWCq/Omf
+nhMRFf+FvdV1doR+AWNUvyvzKX4fv6YR971Z+fvoVza9pqXSmYeoX/91IQpYDKb2AVNjlCEq/yv6
+CTs3uK5imNoiUSWFU76+aZDGFbn8/n3s+/aWGqd5CKH5ffjmwfE0QbEuCmBjghQwFaqqRLX6hKRW
+9AlQ7cu9g+0jPh5hZSoi4iNXC1OLbJCX09dvnL4QpRoFLCJBCphrm61v2exrxTVS659LRlvVyAfC
+H/5PYWoWTWLt1FdvmL52/EIUsKiskQIm7m1vq25dVLEitVGDglbh8hG/EpN2gGqHqE9cM+GBrN/Z
+C+vL14/vtTfIlD7jCWDRqEgBE1VViMqv76pDjbF2eCvrjFPTOOPUNP7pe434x++qTC2EAQLHF6+b
+zhCVV6N+4zdUo4DFo/05MLfyDnmf+u9GPODY9Ij0tL5OKumpRhX6oBcbTfzdt6sPOv/wnUY89Pjh
+B8t9q2tMRrGv/gA+/+NpD1EvrPSYAKaVihQwMW9720sjotoBYrGpwz98p0QQKqyHeveXGvH+r3UG
+s1Ucb/F6/34MgY3ZcOWPpm9NVIQQBRAhSAELoDgI/etvNOJ9X20HldbmhYI3fbYRf/r5TqgZx2A2
+v43/7yphalRmtTL3mXS8IUqrc4ByNJsAFkI+GM0Hi3/+pe0HlXFXA/Ipif/vtxrxyJ9Y3EHttKxj
+G5v2FMBP/td4w3vEYFP6fvM3VaOAxaYiBSyUMlPzqprGt93bjoj4X99UmVokl/9w/CGqDCEKoCN5
+/vMPLNwf/YDp8da3Vr9OapbllYKIiF+8TRq19tqtZIvz6Pe16LSo3uxycX1Ysv5P9xS55IgLfT8s
+pdVzYcNui60+eyn3+dwRre9b3a3uW63uy8XvKX5uo/Nma+vvabUimvl5a4OP26ePT6i1vmoUwGBU
+pICJunOje8od3YqD6r/6+ggfI9O6t2UcD9PHftAQogBmkPbnwGS1In7mFmn843cbXWFKhaqjuL7r
+A+3ugY+97WCPj7bo0+Wj35/ca36wEPWiSo8JYJZoNgFMhV+8TdpVcRGqjpQ3oYiI+MuvNuJxA4Yp
+Ju/D/zk7r+88RP3WbwlRAEX1SR8AsNiK61p++aS0bze93ml/0z7wrFKxOpW3cX/C7Rb38Zg1//S9
+6Xgta3UOMDxBCphKTz2lM8B705Xdg0/Bqrs69Z6vZOdPvP3iPQ6baXcTnwr/+zvT85odZEqfahTA
+kQQpYOJ6O6z1KoaqiM2D1SKFqt69sS75cnb+pJMW5zGYdn/37ekJUGUJUQCbE6SAmbNZsFrEalVv
+oHp3e3rkk+8w//d9Wn3wqul8HZrSBzA6mk0AM2+70wCnZTBbld5A9a4vZudPOXm+73eVyk4N/Ntv
+TWeAihhsSt9v/7ZqFMBGtD8H5opq1ZGB6h1f6NzvX7vj1vd5od8VBlxY9TffnO7X1mAh6sVVHhLA
+zDO1D5ioqpsBLHK1qjdQRUT82eezy79xp/m7v2PV6r9B8qy/joQogO0TpICJefObXxyn7C98ouJU
+tajVquJ9ye/n2z7Xub+/JVRt219+9cjwFDHdrxfrogCqIUgBEzepFtWL2GK9X5XqLYVQ9dSfnI/7
+OUp5e/les/CaMKUPoDqaTQATdeW1jTh29+QHpIvWYr1flSoi4k2f7b7fv3vK7N/XjWy0HOrdfTaF
+zs3Dc99PHqKe+tQXT/ZAAGaIihRAH4s0DXCjUBUR8YYr5+u+9lNsxtHPrN7n7VajhCiAwSQvetEb
+p2Xjd2ABvelNL46IiEedkMbu5c6msr1BZpr0VquKZnXQvZHeYLWRp905u9/DTHJo9Vzo9+bUav/T
+Kvm5VnSvC9vMPDyHg0zpE6QAykle9KI3CVLARL3pTUfuVTPNQaqXYLWxp995+/d/FEHqzZ8td3wR
+8/sclQtRL6n0mADmkSAFTIVZD1O5RQpVRWUD1iTM8+NfVH5KnxAFMIjkxS8WpIDp8cY3HhmoImYz
+VEUsbrDKjTtgLcJjuplBqlG/8zuCFMAgBClgam0UqiJmM1htFqoihACGI0QBjJcgBcyEeQtVEapV
+jFbZKX1CFMBwBClgJglW0CFEAYyfIAXMvM1CVcRsBiuhajrlgWWangNT+gAmI3nJS94sSAFz5Q1v
+eOGGX5vFUBUhWE1C2UYZk3geBglRv/u7L630mAAWhSAFzL15C1ZCVbU2C1BnnJpGkkRc/JnpeA7K
+TukTogBGR5ACFsq8haoIwWqUiiHq0SemsWMpYmUpYnkpYimJqLVP+RtnsxWx1sxOb/t852fH8bir
+RgFMliAFLLR5C1ZarA8uDyYPvnkau+oRu5azELVjO0GqFXFoLeLgasT7vlr9OiohCmDyBCmAtnkL
+VRGqVduVB5N7HZ3GnpXoClIrSxErtYhaLQtTSdL5uVY7SK0WgtT1hyP+9lvVhilT+gAmL3npSwUp
+gH4OHBCsFkEeSu64N419K9E3SC3XIpYKQSqJrCrV6q1IrWVB6seHIj70vWrCVNkQdcYZQhRAFeqT
+PgCAaVUcgPaGqt5AMivBqnicvfehuD5oEUNVKzpT9tY/t50/NeapqvBhstH3DqnMlD4AqlWv7tc9
+wPw444xzuj4+cOAFXR8XQ8kshqqI7vvQ27luIYLVBqFpW2Gqrcp31EHWRfW+bgEYHRUpgAFsFqzm
+vVoVMZ/BqtVz3u8bWkknLOWFqLwCla+dSnrWUY2bEAUwHoIUwAgUB63zXq2KmM9pgJsVnlq9H2wQ
+lKoKUKb0AUyf5Jxz3qLZBECFLr74BRt+bVaCVa95a1qRB5V7trv27W43m1iuZa3PV9rtz5dqEbXo
+BKZmq90Cvd1s4tBaxA2HI/76G6MLmoNM6Xva01SjAKomSAGM0WahKmI2g9W8hKo8sDzouDR2L/cE
+qbxrXztIRXuKXzFIHW4HqUu+PNpqXdkufUIUwHgIUgATpFo1XYpTFh99YroepJZrEfVNglSzFfHm
+z45+uqMQBTC9BCmAKTJvwWoWQ1VvY42IiF+/YxpLtYh60mkmkUTE6z9z5PeOO0RFCFIAk5Ccc85b
+BSmAKXTxxc/f8GuzGKoiZitY9QtUmxnl8Q8Wol42stsHYGvJy14mSAHMgte/fr6C1WahKmK6gtVG
+oaqqYyw7pe/pTxeiAMZNkAKYQfMWqiJmq1pVpUGqUYIUwPgJUgBzQLCaD0IUwOwQpADmzGahKmI2
+g9UihCohCmC2CFIAc061ajZYFwUwW5KXv1yQAlgkF100X8FqHkLVINWoZzxDkAKYpOTlL3+bIAWw
+oC666H9u+LVZDFURsxesBgtRL6/0mADYmiAFwLp5C1az0GK97JQ+IQpgOghSAPQ1b6EqYvqqVapR
+ALMrOfdcQQqArV14oWA1SoOEqGc+U4gCmBaCFAClbRaqImYzWI0zVAlRALNPkAJgaKpV25eHqIjt
+r4sSogCmjyAFwMjNW7AaRagqBqicIAUwu5Jzz/1TQQqAylx44fM2/NoshqqIrbsBbuZeR6dx6Q+3
+ntrXCVHnDnxbAFQnecUrBCkAxud1r5uvYLXdUPWLt0njusMR6Y0Rn7hm8yCVh6jf+z0hCmBa1Sd9
+AAAslmI46A1VxVAyK6Hqqaek68f99Dtnx9xsRbQiYnUt4nAz4uBaxI2rEckEjxOA0RKkAJiY3opL
+MVj1VnpmJVhtJdkiTalGAcwGQQqAqbHdalXE7AarzXKUEAUwOwQpAKbSZtWqiNmcBpjExkFKiAKY
+LfWtphgAwDR41rO6A8YFF8zoNMAt3ne9LwPMBhUpAGZSMVgVQ1XEdFer+uWkvBrVGxYBmF51PYQA
+mHXPetYruj6+4II/Wr88bdWq3nfdToh6xZHfDMDUUpECYO4UQ0kxVEVMplpVDE+m7gHMB0EKgLk2
+zdUq1SiA2aXZBAAL5cwzO6Hl/PM3rlZFjCdYFY8HgNmhIgXAwuoNMZsFqypClRAFMLsEKQBo2yxY
+japa9ZGrG1t/EwBTT5ACgA2UmQbYV2H6/F99vfP9KlEAsy951ave3pr0QQDArDn//OcO9HNnnvnK
+ER8JAJOQvPrVghQADOO887YOVWedJUABzBNBCgAAoKTapA8AAABg1ghSAAAAJQlSAAAAJdWTZOtv
+AgAAoKPetckFAAAAWzK1DwAAoCRBCgAAoCRBCgAAoCTNJgAAAEpSkQIAAChJkAIAAChJ+3MAAICS
+VKQAAABK0mwCAACgJBUpAACAkgQpAACAkgQpAACAkqyRAgAA5tbZZ//KEZ977WvfOfT1an8OAADM
+rde+9l1dH5999pNjFBnI1D4AAGAhnH32k48IVoMSpAAAgLk3yhAVIUgBAABzbtQhKkKzCQAAYI6d
+ddaT47zzRhuiIiLqI79GAACAKXLWWU/u+ngUwUqQAgAA5sYFF3wpIiKe9ayTImI0oakf7c8BAIA5
+tHnOOeusJ8V55717w4+3otkEAABASYIUAAAwdy644Iubfv28894dZ531pIgoX42K0LUPAACYE+ef
+3x2etso655//7jjzzCfF+eeXC1ERKlIAAMCcOPPMO4zttgQpAABg7lQdqgQpAACAkuqJRVIAAMCc
+Keac8374vPXLZx19btf3XXDBnw90/SpSAADA3NosRA1DkAIAACipPukDAAAAqEJejRplJSqnIgUA
+AFCSDXkBAIC5k1ejzr7p6KtRESpSAADAnBpViPq93/vlIz6uR+4T7nIAAAEKSURBVChJAQAA8+VX
+3x5xTWRVqZue/YoRXGN3bkpe97pLWiO4VgAAgKlwzWv/aNOvDxKsfu/3nhive90l6+eCFAAAMNc2
+C1Y3PfsVcc1r/2hb4SoPURERyYUXClIAAMDi+MFrNg5Wxzy7f6B65jOfGBdeeMn6uSAFAAAsrI1C
+VTFQ5eGp+LENeQEAgIXVW4HarFpVpCIFAABQkvbnAAAAJdUTOQoAAKCU2qQPAAAAYNYIUgAAACUJ
+UgAAACUJUgAAACVpNgEAAFCSihQAAEBJ9pECAAAoSUUKAACgJEEKAACgJM0mAAAASlKRAgAAKEmQ
+AgAAKEmQAgAAKEn7cwAAgJI0mwAAACjp/wAwoOdF23Wi1gAAAABJRU5ErkJggg==
+"
+       height="488"
+       width="850"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T15-toros/images/T15-ej3-pata-mesa-ikea-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="dimensions">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 1;stroke-dashoffset:0"
+       d="m 245.46707,652.84685 -23.73858,32.82996"
+       id="path3109"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T15-toros/images/T15-ej3-pata-mesa-ikea-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 1;stroke-dashoffset:0"
+       d="m 436.3859,702.8494 -23.73858,32.82996"
+       id="path3109-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T15-toros/images/T15-ej3-pata-mesa-ikea-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend)"
+       d="m 228.29448,675.57529 188.89853,53.033"
+       id="path3897"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T15-toros/images/T15-ej3-pata-mesa-ikea-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="460.7034"
+       y="615.08112"
+       id="text4529"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.96862602,0.24852289,-0.24852289,0.96862602,0,0)"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T15-toros/images/T15-ej3-pata-mesa-ikea-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4531"
+         x="460.7034"
+         y="615.08112">40mm</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:2,1;stroke-dashoffset:0"
+       d="m 422.24376,708.91032 56.56855,15.65737"
+       id="path4533"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T15-toros/images/T15-ej3-pata-mesa-ikea-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 1;stroke-dashoffset:0"
+       d="m 514.16764,596.27831 56.56855,15.65737"
+       id="path4533-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T15-toros/images/T15-ej3-pata-mesa-ikea-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend)"
+       d="M 444.95929,715.47971 526.62362,601.02978"
+       id="path4553"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T15-toros/images/T15-ej3-pata-mesa-ikea-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-314.35291"
+       y="777.67493"
+       id="text4529-5"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.5366683,-0.8437933,0.8437933,0.5366683,0,0)"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T15-toros/images/T15-ej3-pata-mesa-ikea-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4531-1"
+         x="-314.35291"
+         y="777.67493">40mm</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 1;stroke-dashoffset:0"
+       d="m 513.8105,576.63545 56.56855,15.65737"
+       id="path4533-1-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T15-toros/images/T15-ej3-pata-mesa-ikea-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend);marker-start:url(#Arrow1Mstart)"
+       d="m 527.14286,599.1479 0,-17.85715"
+       id="path4962"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T15-toros/images/T15-ej3-pata-mesa-ikea-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="668.67419"
+       y="445.57761"
+       id="text4529-9"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.96862602,0.24852289,-0.24852289,0.96862602,0,0)"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T15-toros/images/T15-ej3-pata-mesa-ikea-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4531-8"
+         x="668.67419"
+         y="445.57761">4mm</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 1;stroke-dashoffset:0"
+       d="m 493.9646,547.79098 -23.73858,32.82996"
+       id="path3109-9-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T15-toros/images/T15-ej3-pata-mesa-ikea-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 1;stroke-dashoffset:0"
+       d="m 514.67273,553.8519 -23.73858,32.82996"
+       id="path3109-9-2-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T15-toros/images/T15-ej3-pata-mesa-ikea-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 469.72093,550.82144 18.18275,5.05077"
+       id="path5393"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T15-toros/images/T15-ej3-pata-mesa-ikea-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 529.0233,567.05506 -18.18275,-5.05077"
+       id="path5393-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T15-toros/images/T15-ej3-pata-mesa-ikea-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="609.31067"
+       y="416.013"
+       id="text5603"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.97290626,0.23119995,-0.23119995,0.97290626,0,0)"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T15-toros/images/T15-ej3-pata-mesa-ikea-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5605"
+         x="609.31067"
+         y="416.013">4.8</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 1;stroke-dashoffset:0"
+       d="m 279.30717,641.2301 32.32489,9.09138"
+       id="path4533-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T15-toros/images/T15-ej3-pata-mesa-ikea-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:url(#Arrow1Mstart)"
+       d="m 289.72936,658.58821 -9.66458,15.47183"
+       id="path3109-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T15-toros/images/T15-ej3-pata-mesa-ikea-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:url(#Arrow1Mstart)"
+       d="m 298.29039,643.67236 7.71874,-11.86271"
+       id="path3109-3-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T15-toros/images/T15-ej3-pata-mesa-ikea-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.79086018px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="290.992"
+       y="654.52112"
+       id="text6411"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T15-toros/images/T15-ej3-pata-mesa-ikea-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan6413"
+         x="290.992"
+         y="654.52112">3</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 1;stroke-dashoffset:0"
+       d="m 281.07495,612.44075 -14.39467,19.44544"
+       id="path3109-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T15-toros/images/T15-ej3-pata-mesa-ikea-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:url(#Arrow1Mstart)"
+       d="m 262.54895,610.99625 -14.63374,-3.93534"
+       id="path3109-3-1-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T15-toros/images/T15-ej3-pata-mesa-ikea-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:url(#Arrow1Mstart)"
+       d="m 280.45071,617.03311 14.63374,3.93534"
+       id="path3109-3-1-0-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T15-toros/images/T15-ej3-pata-mesa-ikea-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.79086018px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="268.51611"
+       y="615.37769"
+       id="text6411-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T15-toros/images/T15-ej3-pata-mesa-ikea-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan6413-3"
+         x="268.51611"
+         y="615.37769">3</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.99999999, 0.99999999;stroke-dashoffset:0"
+       d="m 451.42856,445.93361 61.96338,-84.95794"
+       id="path6502"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T15-toros/images/T15-ej3-pata-mesa-ikea-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 1;stroke-dashoffset:0"
+       d="M 310.35715,398.79073 368.7132,318.1544"
+       id="path6502-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T15-toros/images/T15-ej3-pata-mesa-ikea-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend)"
+       d="m 365.13081,324.96259 141.77697,40.93569"
+       id="path3897-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T15-toros/images/T15-ej3-pata-mesa-ikea-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="485.36667"
+       y="220.24959"
+       id="text4529-7"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.96862602,0.24852289,-0.24852289,0.96862602,0,0)"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T15-toros/images/T15-ej3-pata-mesa-ikea-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4531-4"
+         x="485.36667"
+         y="220.24959">34mm</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.00000002, 1.00000001;stroke-dashoffset:0"
+       d="m 323.47862,406.02025 40.35372,-54.65336"
+       id="path6502-3-8-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T15-toros/images/T15-ej3-pata-mesa-ikea-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.00000002, 1.00000001;stroke-dashoffset:0"
+       d="m 333.58015,409.05071 40.35372,-54.65336"
+       id="path6502-3-8-8-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T15-toros/images/T15-ej3-pata-mesa-ikea-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.00000002, 1.00000001;stroke-dashoffset:0"
+       d="m 378.53194,422.68777 40.35372,-54.65336"
+       id="path6502-3-8-8-5-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T15-toros/images/T15-ej3-pata-mesa-ikea-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.99999997, 0.99999998;stroke-dashoffset:0"
+       d="M 254.67767,378.01791 378.8072,424.04729"
+       id="path6658"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T15-toros/images/T15-ej3-pata-mesa-ikea-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.79086018px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="359.58752"
+       y="364.30624"
+       id="text6411-5-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T15-toros/images/T15-ej3-pata-mesa-ikea-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan6413-3-0"
+         x="359.58752"
+         y="364.30624">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="455.98224"
+       y="253.58806"
+       id="text4529-75"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.96862602,0.24852289,-0.24852289,0.96862602,0,0)"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T15-toros/images/T15-ej3-pata-mesa-ikea-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4531-9"
+         x="455.98224"
+         y="253.58806">10.5</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend)"
+       d="m 368.21122,363.51476 43.83044,12.16628"
+       id="path3897-8-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T15-toros/images/T15-ej3-pata-mesa-ikea-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999982px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart);marker-end:none"
+       d="m 353.99219,359.16088 -9.82968,-2.19081"
+       id="path3897-8-3-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T15-toros/images/T15-ej3-pata-mesa-ikea-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 0.99999999;stroke-dashoffset:0"
+       d="m 253.2041,586.32609 45.96024,16.64979"
+       id="path6658-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T15-toros/images/T15-ej3-pata-mesa-ikea-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend-0);marker-start:url(#Arrow1Mstart-31)"
+       d="m 265,589.86218 0,-207.14286"
+       id="path7039"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T15-toros/images/T15-ej3-pata-mesa-ikea-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-496.29691"
+       y="277.04721"
+       id="text8081"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.0376308,-0.99929171,0.99929171,0.0376308,0,0)"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T15-toros/images/T15-ej3-pata-mesa-ikea-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan8083"
+         x="-496.29691"
+         y="277.04721">50mm</tspan></text>
+  </g>
+</svg>
