@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="T33-ej2-copa.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mstart"
+       style="overflow:visible">
+      <path
+         id="path3944"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path3929"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart-1"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3944-2"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6,0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-2"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3929-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart-1-3"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3944-2-1"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6,0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-2-4"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3929-5-4"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart-1-7"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3944-2-12"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6,0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-2-46"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3929-5-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart-1-1"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3944-2-3"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6,0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-2-0"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3929-5-43"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="293.20705"
+     inkscape:cy="606.20667"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1855"
+     inkscape:window-height="1176"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="image"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <image
+       y="199.3622"
+       x="-39.642857"
+       id="image3103"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAzkAAAI2CAYAAABzM0Z4AAAABHNCSVQICAgIfAhkiAAAE1FJREFU eJzt3VtyFOcdxuGvXb0DryGp3HsD5iBgC6Hs2BfmdINAxuB4AUESRES6weCLmDiFt4DB4G2kkjU4 WyAXziBpNCPm0Kd553mqUmWIPe4qTXd/P/+br6uPPrrytgAAAISoq6rvQwAAAGhOXYrKAQAAcnzQ 9wEAAAA0SeQAAABRRA4AABBF5AAAAFHsrgYAAEQxyQEAAKKIHAAAIIrIAQAAongZKAAAEMXGAwAA QBSPqwEAAFFEDgAAEEXkAAAAUUQOAAAQReQAAABR7K4GAABE8Z4cAAAgisfVAACAKCIHAACIInIA AIAoIgcAAIhidzUAACCKSQ4AABBF5AAAAFG8JwcAAIhikgMAAESx8QAAABDFJAcAAIgicgAAgCgi BwAAiCJyAACAKCIHAACIUle2VwMAAIKY5AAAAFFEDgAAEEXkAAAAUUQOAAAQReQAAABRapurAQAA SUxyAACAKHUpRjkAAEAOkxwAACCKyAEAAKLYeAAAAIhikgMAAEQROQAAQBSRAwAARBE5AABAFJED AABEqSvbqwEAAEFMcgAAgCgiBwAAiCJyAACAKCIHAACIInIAAIAotc3VAACAJCY5AABAlLoUoxwA ACCHSQ4AABBF5AAAAFFsPAAAAEQxyQEAAKKIHAAAIIrIAQAAoogcAAAgivfkAAAAUeyuBgAARPG4 GgAAEEXkAAAAUeq+DwCA9v3yy35rn33mzGZrnw0Ai6g+/vjm274PAmCo2owDVoeQA1gtIgdYSeJj Pm0u0v0smiGkAJpTnTkjcoBuvHmzeovhs2ctPFmd767vK8BvqjNnNkUOMLM3b/7W9yGUUko5e/ZW 34cAjer73HJOAUlEDqyZPhdSFlHQri7Ob+cxsApEDoToKl4scCBT09cQ1wqgTyIHVkCTiw8LD2AZ rkfAKhA50COLBSDVMtc31zNgWdXZsyIH2vL6dTMRc+6cGz6QZ55rpOsgMA+RAw1YNGbctAFOEj/A skQOzGHemHHzBWjGrNdf112glFKqs2dviRwY8/r1o7n+/nPnbrd0JACcZtr12nUZ1pvIgTJ71Lhp AgzbpOu5azesn+rcOZHDevr55+lhc/68GyLAKpt0jXdth/Uhclgr08LGjQ8g1/i13zUf8okc4gkb AEo5fj9wD4Bsdd8HAG3xqAIAR50/f/vUR5WBHCKHOB5LAGCS0f3BfQHyiRxiuYkBAKynuqr6PgRo h+82AKWU8urV4YR/Y+O2+wOsgboUZzo5Xr3aK6WUsrGxVXy3AdbX6H5wlHsDrA+PqxHp1au9/9/M AFgXk8KmlOJ+AGuoOn/+ti2kiTJ+k3NzA8glbIBJRA6xxA5AlmlBM+I6D4yIHOJNfy4bgCF6X8wc 5XoOTFJtbIgc1sPLl9NvmhcuuEkCdO206/IkrtXArEQOa2nWG6sbKsDyxAzQNZEDZb4bsJsvwEnz hkwprqdAe6qNjS2RA1O8fPnXmf6+Cxe+bPlIAPox63XwNK6RQNdEDsxpmRu+Gz0wFE3Ey1Gub8CQ VBcuiBxY1k8/NbtYuHjRYgFYXJPXJNcjYBWJHOiQhQcwi6b/w8kkriFAMpEDA2SBA6uvi/N4Guc3 sO5EDqyoPhdQIxZSpBnCeVWKcwtgWSIH1tRQFnPvY7FHKavzfT3KdxegPyIHWNgqLjyHqK3FsJ/P /IQJQIbq4kWRAwzXixcW6pRy6ZL4AGB21cWLX4ocgB69ePGwlc+9dOlOK58LAEMncgAAgCgf9H0A AAAATRI5AABAFJEDAABEqauq70MAAABojkkOAAAQReQAAABR6lI8rwYAAOQwyQEAAKLYeAAAAIhi kgMAAEQROQAAQBSRAwAARBE5AABAFJEDAABEqSvbqwEAAEFMcgAAgCgiBwAAiCJyAACAKCIHAACI InIAAIAotc3VAACAJCY5AABAlLoUoxwAACCHSQ4AABBF5AAAAFFsPAAAAEQxyQEAAKKIHAAAIIrI AQAAoogcAAAgivfkAAAAUeyuBgAARPG4GgAAEEXkAAAAUUQOAAAQReQAAABRRA4AABDF7moAAEAU kxwAACCKl4ECAABRTHIAAIAoIgcAAIhi4wEAACCKSQ4AABBF5AAAAFFEDgAAEEXkAAAAUbwnBwAA iGJ3NQAAIIrH1QAAgCgiBwAAiCJyAACAKCIHAACIInIAAIAodlcDAACieE8OAAAQxeNqAABAFJED AABEETkAAEAUkQMAAESxuxoAABDFJAcAAIgicgAAgCjekwMAAEQxyQEAAKLYeAAAAIhikgMAAEQR OQAAQBSRAwAARBE5AABAFJEDAABEqSvbqwEAAEFMcgAAgCgiBwAAiCJyAACAKCIHAACIInIAAIAo tc3VAACAJCY5AABAFJEDAABEqUvxvBoAAJDDJAcAAIhi4wEAACCKSQ4AABBF5AAAAFFEDgAAEEXk AAAAUUQOAAAQpa5srwYAAAQxyQEAAKKIHAAAIIrIAQAAoogcAAAgisgBAACi1DZXAwAAkpjkAAAA UepSjHIAAIAcJjkAAEAUkQMAAESx8QAAABDFJAcAAIgicgAAgCgiBwAAiCJyAACAKCIHAACIUle2 VwMAAIKY5AAAAFFEDgAAEEXkAAAAUUQOAAAQpbbvAAAAkMQkBwAAiCJyAACAKHUpnlcDAABymOQA AABRRA4AABDF7moAAEAUkxwAACCKyAEAAKKIHAAAIIrIAQAAonhPDgAAEMXuagAAQBSPqwEAAFFE DgAAEEXkAAAAUUQOAAAQxcYDAABAFJMcAAAgivfkAAAAUUxyAACAKCIHAACIInIAAIAodlcDAACi mOQAAABRRA4AABBF5AAAAFG8JwcAAIhikgMAAESxuxoAABDFJAcAAIgicgAAgCgiBwAAiCJyAACA KCIHAACIYnc1AAAgipeBAgAAUTyuBgAARBE5AABAFJEDAABEsfEAAAAQxSQHAACIInIAAIAoIgcA AIjiPTkAAEAUkxwAACCK3dUAAIAoJjkAAEAUkQMAAEQROQAAQBSRAwAARBE5AABAlLqyvRoAABDE JAcAAIgicgAAgCh13wcAkO67777u+xBiXbmy3fchADBA1Rdf3H/b90EADIEYWW+CCSBHdeWKyAFy PH06vFC5etXiuS1D+Hn7+QIMj8gBBq3LRazF6npr+7vm+wXQHZED9KaNRaWFJF1r4nvsewvQrOrK lW2RA7Tm6dN7S/3zV6/uNHQk0K95zwXffYDFiRygEYvEjEUc/GbW88c5AzAbkQPMxX+Nhm6cdq45 rwBOV129KnKA0z158v6wuXbNogvaNn4uOu8AJhM5wETTwsaiCvp39Px0TgKcJHKAYybFjUUUDNPo fHWOAhxX930AwDBZNMGwCRyA6UQOAKyIWf58HACl1KVUfR8DMEBPntwr167t9n0YsPaePLk78fcP z0/3cYBxdeXaCEwxWlxdvy52oAvffjs5aEaOnovu3wDTVdeu7dh4AJho2oJL9MBy3hczRznfAOYn coD3mnVBZjEGh+YJmRHnEEAzRA4wt3kXbxZupFkkYI5yTgC0S+QAjbHwY5Ut+/0d5/sM0J/q+nWR A7Tr8eNmF49H3bhhIcmhNr9rR/neAQybyAEGo6sF6iQWrd3q82c9je8AQA6RA6y0IS6W6Y9QAaCU Uqrr13dFDrD2Hj/+qu9DWCs3bjzo+xAACCZyAACAKB/0fQAAAABNqquq70MAAABojkkOAAAQReQA AABRRA4AABBF5AAAAFHqUuw8AAAA5LC7GgAAEMXjagAAQBSRAwAARBE5AABAFJEDAABEsfEAAAAQ xSQHAACI4j05AABAFJMcAAAgisgBAACiiBwAACCK3dUAAIAoJjkAAEAUkQMAAEQROQAAQBTvyQEA AKKY5AAAAFHsrgYAAEQxyQEAAKKIHAAAIIrIAQAAoogcAAAgio0HAACAKN6TAwAARPG4GgAAEEXk AAAAUUQOAAAQReQAAABR7K4GAABEMckBAACiiBwAACCKyAEAAKJ4GSgAABDFJAcAAIhidzUAACCK SQ4AABBF5AAAAFFEDgAAEEXkAAAAUUQOAAAQpa5srwYAAAQxyQEAAKKIHAAAIIrIAQAAoogcAAAg Sm3fAQAAIIlJDgAAEEXkAAAAUUQOAAAQpS7FH8oBAABymOQAAABR7K4GAABEMckBAACiiBwAACCK yAEAAKKIHAAAIIrIAQAAotSV7dUAAIAgJjkAAEAUkQMAAEQROQAAQBSRAwAARKntOwAAACQxyQEA AKKIHAAAIEpdiufVAACAHCY5AABAFJEDAABEsbsaAAAQxSQHAACIInIAAIAoIgcAAIgicgAAgCje kwMAAESxuxoAABDF42oAAEAUkQMAAEQROQAAQBSRAwAARLHxAAAAEMUkBwAAiOI9OQAAQBSTHAAA IIrIAQAAoogcAAAgit3VAACAKCY5AABAFJEDAABEETkAAEAUkQMAAETxMlAAACCK3dUAAIAoHlcD AACiiBwAACCKyAEAAKKIHAAAIIqNBwAAgCgmOQAAQBTvyQEAAKKY5AAAAFFEDgAAEEXkAAAAUeyu BgAARDHJAQAAoogcAAAgisgBAACieE8OAAAQxSQHAACIYnc1AAAgikkOAAAQReQAAABRRA4AABBF 5AAAAFFsPAAAAETxnhwAACCKx9UAAIAoIgcAAIgicgAAgCgiBwAAiGJ3NQAAIIpJDgAAEEXkAAAA UbwnBwAAiGKSAwAARBE5AABAFLurAQAAUUxyAACAKCIHAACIInIAAIAoIgcAAIgicgAAgCh1ZXs1 AAAgiEkOAAAQReQAAABRRA4AABBF5AAAAFFq+w4AAABJTHIAAIAoIgcAAIhSl+J5NQAAIIdJDgAA EEXkAAAAUeyuBgAARDHJAQAAoogcAAAgisgBAACiiBwAACCK9+QAAABR7K4GAABE8bgaAAAQReQA AABRRA4AABBF5AAAAFFsPAAAAEQxyQEAAKJ4Tw4AABDFJAcAAIgicgAAgCgiBwAAiGJ3NQAAIIpJ DgAAEEXkAAAAUUQOAAAQxXtyAACAKDYeAAAAonhcDQAAiFL3fQAA6+Trrz/v+xCibG9/3/chADBA IgdgjBBZHU3/rEQTQAaRA0QaaqhYRDer6Z/zop/n5wowLNX9+39/2/dBAMyiq3CxYF1fbX/HfLcA ulFtb4scoF/37n3e+Gfu7Hzf+GfCNE18h31nAZojcoDWNRUxFoGsukXOBd97gPlV29vfixygEffu fbbQP7ez86zhI4HVM+v543wBeD+RAyxknqCxKIPFnXauObcAJhM5wMzeFzYWXNC+Seehcw/gOJED nGpa2FhUQf+Onp/OSYBDdVX1fQjAUN29ezxwdncPF1GuHdC/3d1n785T5yTAIS8DBSYaLZyOhg0A wCoQOcAJAgeG7bQpKwAiBzjF3bufWTzBQIyHzYhzFOCkamfnmY0HgBPu3v3TsV/v7v6jpyOB9TN+ /o1zPgKcrtrdFTnAdF99NX2x9eCBhRYs47Tza5zzDWB2IgeYyayLMQsxOG6ekBlxHgEsR+QAC5t3 8WbhRppFAuYo5wRAO0QO0CiLPlbdst/hcb7TAN0TOUBnml48jlhEMq6t79o43z2AYRI5wKB0tTgd Z7Han75+5tP4LgCsvurBA5EDrLY7d4a1SKZ/Dx8KFYB1VpdS9X0MAEt5+PCHpT/jzp1PGzgSFtHE z+8k9zaAdVb3fQAAQ9DOQhsA6MMHfR8AAABAk0QOAAAQReQAAABR6sqfzQQAAIKY5AAAAFFEDgAA EEXkAAAAUbwMFAAAiGLjAQAAIIrH1QAAgCgiBwAAiCJyAACAKCIHAACIInIAAIAodlcDAAA6tbX1 6Ynf29v7obHP954cAACgU3t7/zz2662tT0qTXeJxNQAAoDdbW5+ciJ5liRwAAKAXbQROKSIHAADo QVuBU4rIAQAAOtZm4JRidzUAAKAD+/v/KaWUsrn5u1LKaLOBQ48eNRc9dWOfBAAAMIMmg2YSj6sB AABRvCcHAADoUPv9YZIDAAC0an//353++0QOAADQmS6Cx+5qAABAp9puEJMcAACgVbdu/X7iX7dF 5AAAAFFEDgAAEEXkAAAAUerKzgMAAEBHuugPkxwAAKA3m5uXT/31IkQOAAAQReQAAAC92d9//m56 s7l5uezvP5/7M8anPyIHAADo1Sh0FgmcSUQOAACw0sanQbXN1QAAgK48+u83ZevDv0z8/5Zpk4OD 5+Xmzcvl4OC5SQ4AANCtvV+/mfnv/XXvm3f/O80ocG7evFyqg4Mf3y57kAAAAKfZ2/tX+aw8a/Qz P9y6X0op5ebNP5aDgx/f/b5JDgAA0LqtrT909u8yyQEAAAbr170/v/vr0eTmfeq2DgYAAGBZs4bN UXZXAwAAovgzOQAAQBSRAwAARBE5AABAFJEDAABEqSs7DwAAAEFMcgAAgCgiBwAAiCJyAACAKCIH AACIInIAAIAotc3VAACAJCY5AABAlLoUoxwAACCHSQ4AABBF5AAAAFFEDgAAEMXuagAAQBSTHAAA IIrIAQAAoogcAAAgivfkAAAAUWw8AAAARPG4GgAAEEXkAAAAUf4HUJzEtRnxuFEAAAAASUVORK5C YII= "
+       height="566"
+       width="825"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T33-thickness/images/T33-ej1-vaso-3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="drawing"
+     style="display:inline">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.00000001, 1.00000001;stroke-dashoffset:0"
+       d="m 336.72617,487.36218 155.83333,0"
+       id="path3106"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T33-thickness/images/T33-ej1-vaso-3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 0.99999999;stroke-dashoffset:0"
+       d="m 338.73088,685.93357 232.53825,0"
+       id="path3106-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T33-thickness/images/T33-ej1-vaso-3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.00000001, 1;stroke-dashoffset:0"
+       d="m 339.19638,289.50504 228.75,0"
+       id="path3106-8-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T33-thickness/images/T33-ej1-vaso-3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow2Mstart);marker-end:url(#Arrow1Mend)"
+       d="m 475.27677,685.17173 0,-196.97974"
+       id="path3914"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T33-thickness/images/T33-ej1-vaso-3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow2Mstart);marker-end:url(#Arrow1Mend)"
+       d="m 551.70534,684.34728 0,-393.97666"
+       id="path3914-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T33-thickness/images/T33-ej1-vaso-3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="479.82245"
+       y="591.7326"
+       id="text4595"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T33-thickness/images/T33-ej1-vaso-3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4597"
+         x="479.82245"
+         y="591.7326">50mm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="561.64484"
+       y="479.60571"
+       id="text4599"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T33-thickness/images/T33-ej1-vaso-3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4601"
+         x="561.64484"
+         y="479.60571">100mm</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.99999997, 0.99999998;stroke-dashoffset:0"
+       d="m 338.57143,242.80155 0,445.92977"
+       id="path3009"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T33-thickness/images/T33-ej1-vaso-3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="367.67957"
+       y="649.58978"
+       id="text4595-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T33-thickness/images/T33-ej1-vaso-3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4597-5"
+         x="367.67957"
+         y="649.58978">30mm</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow2Mstart-1);marker-end:url(#Arrow1Mend-2);display:inline"
+       d="m 338.57143,660.21932 120,0"
+       id="path3805"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T33-thickness/images/T33-ej1-vaso-3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 1;stroke-dashoffset:0;display:inline"
+       d="m 459.28572,685.21932 0,-42.14285"
+       id="path3803"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T33-thickness/images/T33-ej1-vaso-3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 1;stroke-dashoffset:0;display:inline"
+       d="m 459.28572,487.36218 0,-42.14285"
+       id="path3803-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T33-thickness/images/T33-ej1-vaso-3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="367.67957"
+       y="448.87549"
+       id="text4595-8-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T33-thickness/images/T33-ej1-vaso-3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4597-5-0"
+         x="367.67957"
+         y="448.87549">30mm</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow2Mstart-1);marker-end:url(#Arrow1Mend-2);display:inline"
+       d="m 338.57143,459.50503 120,0"
+       id="path3805-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T33-thickness/images/T33-ej1-vaso-3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 1;stroke-dashoffset:0;display:inline"
+       d="m 535.71429,287.36218 0,-42.14285"
+       id="path3803-8-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T33-thickness/images/T33-ej1-vaso-3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="406.06537"
+       y="249.37036"
+       id="text4595-8-5-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T33-thickness/images/T33-ej1-vaso-3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4597-5-0-1"
+         x="406.06537"
+         y="249.37036">50mm</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow2Mstart-1);marker-end:url(#Arrow1Mend-2);display:inline"
+       d="m 339.08516,257.9796 194.78034,0"
+       id="path3805-3-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T33-thickness/images/T33-ej1-vaso-3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
