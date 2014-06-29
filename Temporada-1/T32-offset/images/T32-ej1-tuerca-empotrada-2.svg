@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="T32-ej1-tuerca-empotrada-2.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mstart"
+       style="overflow:visible">
+      <path
+         id="path3848"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.4) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path3851"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-4"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3851-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-3"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3851-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4816"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4818"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="685.57098"
+     inkscape:cy="659.82876"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1855"
+     inkscape:window-height="1176"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Image"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       y="137.32394"
+       x="-33.284172"
+       id="image3044"
+       xlink:href="data:image/png;base64,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
+"
+       height="529"
+       width="806"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T32-offset/images/T32-ej1-tuerca-empotrada-6.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="drawing">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:2,1;stroke-dashoffset:0"
+       d="m 585.71429,278.07647 52.85714,8.57143"
+       id="path3048"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T32-offset/images/T32-ej1-tuerca-empotrada-6.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 1;stroke-dashoffset:0"
+       d="m 585.71429,442.36218 52.85714,8.57143"
+       id="path3048-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T32-offset/images/T32-ej1-tuerca-empotrada-6.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend);marker-start:url(#Arrow1Mstart)"
+       d="m 606.42857,281.6479 0,162.85714"
+       id="path3836"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T32-offset/images/T32-ej1-tuerca-empotrada-6.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="613.1626"
+       y="366.4686"
+       id="text4468"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T32-offset/images/T32-ej1-tuerca-empotrada-6.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4470"
+         x="613.1626"
+         y="366.4686">2.3mm</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 1;stroke-dashoffset:0"
+       d="m 591.77521,266.96479 52.85714,8.57143"
+       id="path3048-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T32-offset/images/T32-ej1-tuerca-empotrada-6.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 1;stroke-dashoffset:0"
+       d="m 595.81583,448.79225 41.48915,6.55113"
+       id="path3048-5-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T32-offset/images/T32-ej1-tuerca-empotrada-6.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 626.79965,248.28076 0,23.73858"
+       id="path4508"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T32-offset/images/T32-ej1-tuerca-empotrada-6.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 626.79965,311.34077 0,-23.73858"
+       id="path4508-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T32-offset/images/T32-ej1-tuerca-empotrada-6.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="649.9483"
+       y="286.82574"
+       id="text4468-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T32-offset/images/T32-ej1-tuerca-empotrada-6.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4470-5"
+         x="649.9483"
+         y="286.82574">0.1mm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="650"
+       y="269.14789"
+       id="text4800"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T32-offset/images/T32-ej1-tuerca-empotrada-6.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4802"
+         x="650"
+         y="269.14789">offset</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 617.2032,422.27953 0,23.73858"
+       id="path4508-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T32-offset/images/T32-ej1-tuerca-empotrada-6.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 617.2032,477.7634 0,-23.73858"
+       id="path4508-2-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T32-offset/images/T32-ej1-tuerca-empotrada-6.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="640.35187"
+       y="458.55167"
+       id="text4468-3-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T32-offset/images/T32-ej1-tuerca-empotrada-6.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4470-5-8"
+         x="640.35187"
+         y="458.55167">0.1mm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="640.40356"
+       y="440.87381"
+       id="text4800-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/tutoriales-freecad/Temporada-1/T32-offset/images/T32-ej1-tuerca-empotrada-6.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4802-9"
+         x="640.40356"
+         y="440.87381">offset</tspan></text>
+  </g>
+</svg>
