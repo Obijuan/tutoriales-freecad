@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:freecad="http://www.freecadweb.org/wiki/index.php?title=Svg_Namespace"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   id="svg5211"
+   version="1.1"
+   inkscape:version="0.48.1 "
+   sodipodi:docname="iso7200-a4-landscape">
+  <defs
+     id="defs5213" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="10"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1280"
+     inkscape:window-height="962"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+<!-- Working space 20 10 287 200 -->
+<!-- Title block 107 164 287 200 -->
+  <metadata
+     id="metadata5216">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+      <rect id="zeichenrahmen" y="10" x="20"
+         height="190"
+         width="267"
+         style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:miter;stroke-miterlimit:4" />
+       <!-- width-30, height-20 -->
+    <g id="schriftfeld"
+       transform="translate(87,-87)">
+       <!-- A4 Portrait based for other formats width-210, height-297 -->
+       <!--        page       rect   translation
+                   w    h    rw   rh   tx   ty
+            A4-P  210  297  180  277    0    0
+            A4-L  297  210  267  190   87  -87
+            A3-L  420  297  390  277  210    0
+            A2-L  594  420  564  400  384  123
+            A1-L  841  594  811  574  631  297
+            A0-L 1189  841 1159  821  979  544
+
+ -->
+    <g id="schriftfeldrahmen"
+       style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:miter;stroke-miterlimit:4">
+      <rect id="schriftfeld-aussen"
+         width="180" height="36" x="20" y="251" />
+      <path id="schriftfeld-h1" d="M 20,260 H 200" />
+      <path d="M 89,269 H 200" id="schriftfeld-h2" />
+      <path id="schriftfeld-h3" d="m 149,278 h 51" />
+      <path id="schriftfeld-v1" d="m 89,251 v 36" />
+      <path d="m 45,251 v 9" id="schriftfeld-v2" />
+      <path id="schriftfeld-v3" d="m 132,251 v 9" />
+      <path d="m 175,251 v 9" id="schriftfeld-v4" />
+      <path id="schriftfeld-v5" d="m 89,251 v 36" />
+      <path d="m 149,260 v 27" id="schriftfeld-v6" />
+      <path id="schriftfeld-v7" d="m 156,278 v 9" />
+      <path d="m 181,278 v 9" id="schriftfeld-v8" />
+      <path id="schriftfeld-v9" d="m 191,278 v 9" />
+    </g>
+    <g id="schriftfeldtext2"
+        style="font-size:2px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:osifont"
+       xml:space="preserve">
+    <text y="253" x="21"><tspan id="tspan5781" y="253" x="21">Responsible department</tspan></text>
+    <text x="46" y="253"><tspan id="tspan5783" x="46" y="253">Technical reference</tspan></text>
+    <text y="253" x="90"><tspan y="253" x="90" id="tspan5785">Created by</tspan></text>
+    <text x="133" y="253"><tspan id="tspan5787" x="133" y="253">Approved by</tspan></text>
+    <text y="253" x="176"><tspan y="253" x="176" id="tspan5789">Classification/key words</tspan></text>
+    <text x="21" y="262"><tspan x="21" y="262" id="tspan5791">Legal owner</tspan></text>
+    <text y="262" x="90"><tspan id="tspan5793" y="262" x="90">Document type</tspan></text>
+    <text x="150" y="262"><tspan x="150" y="262" id="tspan5795">Document status</tspan></text>
+    <text x="90" y="271"><tspan x="90" y="271" id="tspan5797">Title, Supplementary title</tspan></text>
+    <text y="271" x="150"><tspan id="tspan5799" y="271" x="150">Identification number</tspan></text>
+    <text x="150" y="280"><tspan x="150" y="280" id="tspan5801">Rev.</tspan></text>
+    <text y="280" x="157"><tspan id="tspan5803" y="280" x="157">Date of issue</tspan></text>
+    <text x="182" y="280"><tspan x="182" y="280" id="tspan5805">Language</tspan></text>
+    <text y="280" x="192"><tspan id="tspan5807" y="280" x="192">Seg./Sh.</tspan></text>
+    </g>
+    <g id="schriftfeldtext4"
+       style="font-size:4px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:osifont"
+       xml:space="preserve">
+    <text freecad:editable="Creator" x="90" y="258"><tspan id="tspan5815" x="90" y="258">Obijuan</tspan> </text>
+    <text freecad:editable="ApprovalPerson" y="258" x="133"><tspan y="258" x="133" id="tspan5817">Obijuan</tspan> </text>
+    <text freecad:editable="LegalOwner" y="267" x="21"><tspan id="tspan5821" y="267" x="21">BQ</tspan> </text>
+    <text freecad:editable="DocumentType" x="90" y="267"><tspan x="90" y="267" id="tspan5823">type</tspan></text>
+    <text freecad:editable="Title" y="276" x="90"><tspan id="tspan5827" y="276" x="90">Tutorial FreeCAD 30</tspan></text>
+    <text freecad:editable="IdNumber" x="150" y="276"><tspan x="150" y="276" id="tspan5829">0001</tspan></text>
+    <text freecad:editable="Date" x="157" y="285"><tspan x="157" y="285" id="tspan5833">2015-07-17</tspan></text>
+    <text freecad:editable="OptResponsibleDept" y="258" x="21"><tspan y="258" x="21">Innovación</tspan></text>
+    <text freecad:editable="OptTechnicalRef" x="46" y="258"><tspan x="46" y="258"></tspan></text>
+    <text freecad:editable="Classification" y="258" x="176"><tspan y="258" x="176"></tspan></text>
+    <text freecad:editable="OptDocumentStatus" x="150" y="267"><tspan x="150" y="267"></tspan></text>
+    <text freecad:editable="OptRevison" x="150" y="285"><tspan x="150" y="285"></tspan></text>
+    <text freecad:editable="OptLanguage" x="182" y="285"><tspan x="182" y="285"></tspan></text>
+    <text freecad:editable="SegmentsOrSheets" y="285" x="192"><tspan y="285" x="192"></tspan></text>
+    <text freecad:editable="OptSupTitle" y="281" x="90"><tspan id="tspan5827" y="281" x="90"></tspan></text>
+    <text freecad:editable="OptSupTitle2" y="285" x="90"><tspan id="tspan5827" y="285" x="90"></tspan></text>
+    </g>
+      </g>
+<g id="planta"
+   transform="rotate(0,50,165) translate(50,165) scale(4,4)"
+  >
+<g   stroke="rgb(0, 0, 0)"
+   stroke-width="0.15"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   fill="none"
+   transform="scale(1,-1)"
+  >
+<path id= "1" d=" M 0 0 L 0 3 " />
+<path id= "2" d=" M 0 3 L 0 10 " />
+<path id= "3" d=" M 3 0 L 11 0 " />
+<path id= "4" d=" M 3 0 L 0 0 " />
+<path id= "5" d=" M 0 3 L 3 3 " />
+<path id= "6" d=" M 0 10 L 11 10 " />
+<path id= "7" d=" M 11 0 L 11 10 " />
+<path id= "8" d=" M 3 3 L 3 4.44089e-16 " />
+</g>
+</g>
+
+
+
+<g id="Alzado"
+   transform="rotate(90,50,105) translate(50,105) scale(4,4)"
+  >
+<g   stroke="rgb(0, 0, 0)"
+   stroke-width="0.15"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   fill="none"
+   transform="scale(1,-1)"
+  >
+<path id= "1" d=" M 0 0 L -18 0 " />
+<path id= "2" d=" M -20 0 L -18 0 " />
+<path id= "3" d=" M 0 11 L -20 11 " />
+<path id= "4" d=" M -20 3 L -20 11 " />
+<path id= "5" d=" M -20 3 L -18 3 " />
+<path id= "6" d=" M -18 3 L -18 0 " />
+<path id= "7" d=" M 0 0 L 0 11 " />
+<path id= "8" d=" M -18 0 L -18 3 " />
+<path id= "9" d=" M -20 0 L -20 3 " />
+</g>
+</g>
+
+
+
+<g id="perspectiva"
+   transform="rotate(-60,190,145) translate(190,145) scale(4,4)"
+  >
+<g   stroke="rgb(0, 0, 0)"
+   stroke-width="0.15"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   fill="none"
+   transform="scale(1,-1)"
+  >
+<path id= "1" d=" M 0 0 L 12.7279 7.34847 " />
+<path id= "2" d=" M 12.7279 7.34847 L 12.7279 9.79796 " />
+<path id= "3" d=" M 14.1421 10.6145 L 12.7279 9.79796 " />
+<path id= "4" d=" M 14.1421 10.6145 L 14.1421 16.3299 " />
+<path id= "5" d=" M 0 8.16497 L 14.1421 16.3299 " />
+<path id= "6" d=" M 0 0 L 0 8.16497 " />
+<path id= "7" d=" M 7.77817 -4.49073 L 21.9203 3.67423 " />
+<path id= "8" d=" M 16.2635 6.94022 L 21.9203 3.67423 " />
+<path id= "9" d=" M 16.2635 6.94022 L 14.8492 6.12372 " />
+<path id= "10" d=" M 14.8492 6.12372 L 12.7279 7.34847 " />
+<path id= "11" d=" M 0 0 L 7.77817 -4.49073 " />
+<path id= "12" d=" M 12.7279 9.79796 L 14.8492 8.57321 " />
+<path id= "13" d=" M 14.8492 8.57321 L 14.8492 6.12372 " />
+<path id= "14" d=" M 14.1421 10.6145 L 16.2635 9.38971 " />
+<path id= "15" d=" M 16.2635 9.38971 L 14.8492 8.57321 " />
+<path id= "16" d=" M 14.1421 16.3299 L 21.9203 11.8392 " />
+<path id= "17" d=" M 21.9203 3.67423 L 21.9203 11.8392 " />
+<path id= "18" d=" M 16.2635 9.38971 L 16.2635 6.94022 " />
+</g>
+</g>
+
+
+
+<g id="ViewGroup001" transform="rotate(0.0,50.0,165.0) translate(50.0,165.0) scale(4.0,-4.0)"><path d="M 0.0 0.0 L 0.0 -5.0 L 11.0 -5.0 L 11.0 0.0" fill="none" stroke="#0000ff" stroke-width="0.0875 px" style="stroke-width:0.0875;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="0.0 0.0" freecad:basepoint2="11.0 0.0" freecad:dimpoint="0.0 -5.0"/>
+<path transform="rotate(-0.0,0.0,-5.0) translate(0.0,-5.0) scale(0.4,0.4)" freecad:skip="1" fill="#0000ff" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" d="M 0 0 L 4 1 L 4 -1 Z"/>
+<path transform="rotate(180.0,11.0,-5.0) translate(11.0,-5.0) scale(0.4,0.4)" freecad:skip="1" fill="#0000ff" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" d="M 0 0 L 4 1 L 4 -1 Z"/>
+<text fill="#0000ff" font-size="1.5" style="text-anchor:middle;text-align:center;font-family:" transform="rotate(-0.0,5.5,-4.0) translate(5.5,-4.0) scale(1,-1) " freecad:skip="1">
+11 mm</text>
+<path d="M -0.0 10.0 L -5.0 10.0 L -5.0 0.0 L 0.0 0.0" fill="none" stroke="#0000ff" stroke-width="0.0875 px" style="stroke-width:0.0875;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="-0.0 10.0" freecad:basepoint2="0.0 0.0" freecad:dimpoint="-5.0 10.0"/>
+<path transform="rotate(-90.0,-5.0,10.0) translate(-5.0,10.0) scale(0.4,0.4)" freecad:skip="1" fill="#0000ff" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" d="M 0 0 L 4 1 L 4 -1 Z"/>
+<path transform="rotate(90.0,-5.0,0.0) translate(-5.0,0.0) scale(0.4,0.4)" freecad:skip="1" fill="#0000ff" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" d="M 0 0 L 4 1 L 4 -1 Z"/>
+<text fill="#0000ff" font-size="1.5" style="text-anchor:middle;text-align:center;font-family:" transform="rotate(-90.0,-4.0,5.0) translate(-4.0,5.0) scale(1,-1) " freecad:skip="1">
+10 mm</text>
+<path d="M 3.0 3.0 L 4.85643564356 3.0 L 4.85643564356 0.0 L 3.0 0.0" fill="none" stroke="#0000ff" stroke-width="0.0875 px" style="stroke-width:0.0875;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="3.0 3.0" freecad:basepoint2="3.0 0.0" freecad:dimpoint="4.85643564356 3.0"/>
+<path transform="rotate(-90.0,4.85643564356,3.0) translate(4.85643564356,3.0) scale(0.133333333333,0.133333333333)" freecad:skip="1" fill="#0000ff" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" d="M 0 0 L 4 1 L 4 -1 Z"/>
+<path transform="rotate(90.0,4.85643564356,0.0) translate(4.85643564356,0.0) scale(0.133333333333,0.133333333333)" freecad:skip="1" fill="#0000ff" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" d="M 0 0 L 4 1 L 4 -1 Z"/>
+<text fill="#0000ff" font-size="1.5" style="text-anchor:middle;text-align:center;font-family:" transform="rotate(-90.0,5.35643564356,1.5) translate(5.35643564356,1.5) scale(1,-1) " freecad:skip="1">
+3 </text>
+</g>
+
+
+<g id="ViewGroup002" transform="rotate(90.0,50.0,105.0) translate(50.0,105.0) scale(4.0,-4.0)"><path d="M -20.0 11.0 L -20.0 15.0 L -0.0 15.0 L -0.0 11.0" fill="none" stroke="#0000ff" stroke-width="0.0875 px" style="stroke-width:0.0875;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="-20.0 11.0" freecad:basepoint2="-0.0 11.0" freecad:dimpoint="-20.0 15.0"/>
+<path transform="rotate(-0.0,-20.0,15.0) translate(-20.0,15.0) scale(0.4,0.4)" freecad:skip="1" fill="#0000ff" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" d="M 0 0 L 4 1 L 4 -1 Z"/>
+<path transform="rotate(180.0,-0.0,15.0) translate(-0.0,15.0) scale(0.4,0.4)" freecad:skip="1" fill="#0000ff" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" d="M 0 0 L 4 1 L 4 -1 Z"/>
+<text fill="#0000ff" font-size="1.5" style="text-anchor:middle;text-align:center;font-family:" transform="rotate(-0.0,-10.0,16.0) translate(-10.0,16.0) scale(1,-1) " freecad:skip="1">
+20 mm</text>
+<path d="M -18.0 -2.14003699533e-16 L -15.1569496508 -3.99170740345e-17 L -15.1569496508 3.0 L -18.0 3.0" fill="none" stroke="#0000ff" stroke-width="0.0875 px" style="stroke-width:0.0875;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="-18.0 -2.14003699533e-16" freecad:basepoint2="-18.0 3.0" freecad:dimpoint="-15.1569496508 -3.99170740345e-17"/>
+<path transform="rotate(90.0,-15.1569496508,-3.99170740345e-17) translate(-15.1569496508,-3.99170740345e-17) scale(0.266666666667,0.266666666667)" freecad:skip="1" fill="#0000ff" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" d="M 0 0 L 4 1 L 4 -1 Z"/>
+<path transform="rotate(270.0,-15.1569496508,3.0) translate(-15.1569496508,3.0) scale(0.266666666667,0.266666666667)" freecad:skip="1" fill="#0000ff" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" d="M 0 0 L 4 1 L 4 -1 Z"/>
+<text fill="#0000ff" font-size="1.5" style="text-anchor:middle;text-align:center;font-family:" transform="rotate(90.0,-15.6569496508,1.5) translate(-15.6569496508,1.5) scale(1,-1) " freecad:skip="1">
+3 </text>
+<path d="M -20.0 3.0 L -20.0 5.61214953271 L -18.0 5.61214953271 L -18.0 3.0" fill="none" stroke="#0000ff" stroke-width="0.0875 px" style="stroke-width:0.0875;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="-20.0 3.0" freecad:basepoint2="-18.0 3.0" freecad:dimpoint="-20.0 5.61214953271"/>
+<path transform="rotate(-0.0,-20.0,5.61214953271) translate(-20.0,5.61214953271) scale(0.133333333333,0.133333333333)" freecad:skip="1" fill="#0000ff" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" d="M 0 0 L 4 1 L 4 -1 Z"/>
+<path transform="rotate(180.0,-18.0,5.61214953271) translate(-18.0,5.61214953271) scale(0.133333333333,0.133333333333)" freecad:skip="1" fill="#0000ff" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" d="M 0 0 L 4 1 L 4 -1 Z"/>
+<text fill="#0000ff" font-size="1.5" style="text-anchor:middle;text-align:center;font-family:" transform="rotate(-0.0,-19.0,6.11214953271) translate(-19.0,6.11214953271) scale(1,-1) " freecad:skip="1">
+2 </text>
+</g>
+
+
+<g id="ViewGroup" transform="rotate(-60.0,190.0,145.0) translate(190.0,145.0) scale(4.0,-4.0)"><text fill="#000000" font-size="1.5" style="text-anchor:start;text-align:left;font-family:" transform="rotate(0.0,22.6500278586,13.5930215628) translate(22.6500278586,13.5930215628) scale(1,-1) " freecad:skip="1">
+1</text>
+<path id="DWire_w0000" d="M 15.4548338561 14.1937017026 L 18.2832609809 16.6431914454 L 21.8187948868 14.601949993 " stroke="#000000" stroke-width="0.0875 px" style="stroke-width:0.0875;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="22.9005424225" cy="13.9774027621" r="1.52982203599" stroke="#000000" stroke-width="0.0875 px" style="stroke-width:0.0875;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+</g>
+
+
+  </g>
+</svg>
+
